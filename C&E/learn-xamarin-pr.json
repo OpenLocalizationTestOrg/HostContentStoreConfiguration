@@ -1,0 +1,141 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-xamarin-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-xamarin-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-xamarin-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-xamarin-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-xamarin-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-xamarin-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-xamarin-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-xamarin-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-xamarin-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/learn-xamarin-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-xamarin-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "learn-xamarin-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "0852c3c9-dcae-90c3-03f5-68bc3138c85e",
+    "zh-CN": "23588655-588d-c6b8-6d4c-07264e2a6769",
+    "zh-TW": "8dc31edc-7670-13b0-e84e-4a898547ba82",
+    "fr-FR": "989fc3de-ef18-61e5-0b77-2e2b2ffc6947",
+    "de-DE": "720b3d20-f0e5-25c9-7795-2bdb043fc3ab",
+    "it-IT": "b9d08fcf-f293-8440-af65-507172a2a977",
+    "ja-JP": "1a1ada6e-4905-6e9b-fb66-c35a422c5655",
+    "ko-KR": "b3ed8150-c6f3-e29f-5d5a-c6a6d9db0c9b",
+    "ru-RU": "b1ce732f-d736-b5d6-fe58-e9392b10f8a2",
+    "es-ES": "3213c4a2-5d40-274a-49c0-780816be01ec"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": true,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-xamarin-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

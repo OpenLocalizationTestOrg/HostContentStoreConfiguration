@@ -1,0 +1,135 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeDocs-Localization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_OfficeDocs-MicrosoftSearch",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "7ce8614b-ea78-cdb9-9ce3-5625e45caded",
+    "zh-CN": "049b23b1-8479-d65e-e9eb-ac677174f669",
+    "zh-TW": "6bac8c66-c32f-c6cd-09d3-26a80ed991a9",
+    "fr-FR": "d84c8f34-badf-0f43-bb8c-263ec29845c1",
+    "de-DE": "ec94113e-e5ca-abdc-83a5-ed425bca9b3d",
+    "it-IT": "9efe6524-44bd-9786-3d16-f2b3a1282693",
+    "ja-JP": "3d4ea150-c5fa-b2e2-252a-256843f457bc",
+    "ko-KR": "4354ac0d-8331-80ec-aed3-42d6fa836ffb",
+    "ru-RU": "b6eb5a67-90d2-ebba-687e-e97f0a2e1742",
+    "es-ES": "0c2d4c70-ce43-a3f3-ef2a-497b023dc207"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-MicrosoftSearch-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

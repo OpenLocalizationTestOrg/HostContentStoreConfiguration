@@ -1,0 +1,112 @@
+{
+  "SourceRepoUri": "https://gamingcx.visualstudio.com/gaming/_git/xbox-live-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "zh-CN",
+    "ja-JP",
+    "ko-KR"
+  ],
+  "Owner": "gamingcx",
+  "TargetRepoUris": {
+    "zh-CN": "https://gamingcx.visualstudio.com/gaming/_git/xbox-live-docs-pr.zh-CN",
+    "ja-JP": "https://gamingcx.visualstudio.com/gaming/_git/xbox-live-docs-pr.ja-JP",
+    "ko-KR": "https://gamingcx.visualstudio.com/gaming/_git/xbox-live-docs-pr.ko-KR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "helgaa",
+      "joanlee",
+      "v-satain",
+      "v-tiree",
+      "WeeTeck.Tan",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "Xbox-Live-Docs-PR",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "fe045851-b27c-6c6b-0773-91191221c229",
+    "ja-JP": "2f18e8f4-adcd-4e84-45b5-086015f38c93",
+    "ko-KR": "c799265d-2b72-93c3-310d-d85d89f68048"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "False",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "False",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "False",
+    "mergeAdjacentPhTags": "True",
+    "pairHtmlTags": "False",
+    "preset": "wdg",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "True",
+    "useParagraphMarker": "False",
+    "ymlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md"
+  ],
+  "Id": "https://gamingcx.visualstudio.com/gaming/_git/xbox-live-docs-pr:live",
+  "TranslationLocales": [
+    "zh-CN",
+    "ja-JP",
+    "ko-KR"
+  ],
+  "NoLocales": false
+}

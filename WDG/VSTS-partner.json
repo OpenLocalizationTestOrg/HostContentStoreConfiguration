@@ -1,0 +1,126 @@
+{
+  "SourceRepoUri": "https://cpubwin.visualstudio.com/partner/_git/partner",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "Owner": "cpubwin",
+  "TargetRepoUris": {
+    "de-DE": "https://cpubwin.visualstudio.com/partner/_git/partner.de-de",
+    "es-ES": "https://cpubwin.visualstudio.com/partner/_git/partner.es-es",
+    "fr-FR": "https://cpubwin.visualstudio.com/partner/_git/partner.fr-fr",
+    "it-IT": "https://cpubwin.visualstudio.com/partner/_git/partner.it-it",
+    "ja-JP": "https://cpubwin.visualstudio.com/partner/_git/partner.ja-jp",
+    "ko-KR": "https://cpubwin.visualstudio.com/partner/_git/partner.ko-kr",
+    "pt-BR": "https://cpubwin.visualstudio.com/partner/_git/partner.pt-br",
+    "ru-RU": "https://cpubwin.visualstudio.com/partner/_git/partner.ru-ru",
+    "zh-CN": "https://cpubwin.visualstudio.com/partner/_git/partner.zh-cn",
+    "zh-TW": "https://cpubwin.visualstudio.com/partner/_git/partner.zh-tw"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ndolci@ntdev.microsoft.com",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "VSTS-partner",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "2adb45e5-1897-07de-ab41-8d31768b1ebd",
+    "es-ES": "111b919f-de7e-9216-ad3a-678d69cacd89",
+    "fr-FR": "ef83b648-4923-df29-5374-b74560bf6507",
+    "it-IT": "3dba7566-f4dd-d95f-7003-30a4a0a01869",
+    "ja-JP": "0d641133-d0b3-e30b-2da6-7a6c8fdc0aaa",
+    "ko-KR": "7a29915b-cbc0-bb36-9762-5be709bbf053",
+    "pt-BR": "47ca8874-a86d-3ecf-5f10-6147ffc698dc",
+    "ru-RU": "22b1ffa6-8ae5-7d9c-f032-3531d33d49b6",
+    "zh-CN": "24ebeb58-3e70-0802-a553-d9f4a198464c",
+    "zh-TW": "77a30b93-71cf-baca-3aa9-b0fa755900ff"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*.md",
+    "**/*.yml"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "wdg2"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://cpubwin.visualstudio.com/partner/_git/partner:live",
+  "TranslationLocales": [
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "NoLocales": false
+}

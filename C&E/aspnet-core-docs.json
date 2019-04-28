@@ -1,0 +1,139 @@
+{
+  "SourceRepoUri": "https://github.com/aspnet/AspNetCore.Docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "Aspnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/aspnet/AspNetCore.Docs.pt-br",
+    "zh-CN": "https://github.com/aspnet/AspNetCore.Docs.zh-cn",
+    "zh-TW": "https://github.com/aspnet/AspNetCore.Docs.zh-tw",
+    "cs-CZ": "https://github.com/aspnet/AspNetCore.Docs.cs-cz",
+    "fr-FR": "https://github.com/aspnet/AspNetCore.Docs.fr-fr",
+    "de-DE": "https://github.com/aspnet/AspNetCore.Docs.de-de",
+    "it-IT": "https://github.com/aspnet/AspNetCore.Docs.it-it",
+    "ja-JP": "https://github.com/aspnet/AspNetCore.Docs.ja-jp",
+    "ko-KR": "https://github.com/aspnet/AspNetCore.Docs.ko-kr",
+    "pl-PL": "https://github.com/aspnet/AspNetCore.Docs.pl-pl",
+    "ru-RU": "https://github.com/aspnet/AspNetCore.Docs.ru-ru",
+    "es-ES": "https://github.com/aspnet/AspNetCore.Docs.es-es",
+    "tr-TR": "https://github.com/aspnet/AspNetCore.Docs.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "aspnet-core-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/aspnet/AspNetCore.Docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

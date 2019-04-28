@@ -1,0 +1,68 @@
+{
+  "SourceRepoUri": "https://github.com/Azure/azure-iot-device-ecosystem",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "zh-CN"
+  ],
+  "Owner": "Azure",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/Azure/azure-iot-device-ecosystem.zh-cn"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-iot-device-ecosystem",
+  "PublishPlatform": "DPS",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": null,
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": null,
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/Azure/azure-iot-device-ecosystem:master",
+  "TranslationLocales": [
+    "zh-CN"
+  ],
+  "NoLocales": false
+}

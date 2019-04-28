@@ -1,0 +1,76 @@
+{
+  "SourceRepoUri": "https://cpubwin.visualstudio.com/_git/commercialization",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "zh-CN",
+    "ja-JP"
+  ],
+  "Owner": "cpubwin",
+  "TargetRepoUris": {
+    "zh-CN": "https://cpubwin.visualstudio.com/commercialization/_git/commercialization.zh-CN",
+    "ja-JP": "https://cpubwin.visualstudio.com/commercialization/_git/commercialization.ja-JP"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "VSTS-Commercialization",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "69cddbea-3bbc-3b66-d57f-b82d2cb68b9a",
+    "ja-JP": "d5f35051-4dc8-742e-b382-f3f95b059a63"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "!/*.md",
+    "**/*.md",
+    "**/*.yml"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": null,
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": null,
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://cpubwin.visualstudio.com/_git/commercialization:master",
+  "TranslationLocales": [
+    "zh-CN",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

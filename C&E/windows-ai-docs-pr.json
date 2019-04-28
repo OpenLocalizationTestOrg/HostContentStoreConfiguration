@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/windows-ai-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/windows-ai-docs-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "windows-ai-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "6f9ef595-3425-e7aa-bf1b-cbbf9a2fc396",
+    "zh-CN": "699a599b-2b47-a7ae-02a7-a31891054079",
+    "zh-TW": "490c9514-98ea-ca7a-846f-7f0b2204b411",
+    "fr-FR": "b9cea65c-da07-21e3-58e0-3ca1747b2102",
+    "de-DE": "42d7aca5-429e-2328-89bc-67cf330bafc4",
+    "it-IT": "6f438c32-7816-483d-eb5d-353d661a234b",
+    "ja-JP": "33d9f96e-30a5-3c18-dd2c-2eb2ba0354cd",
+    "ko-KR": "941b06a3-d55c-0648-ddc0-273626c01779",
+    "ru-RU": "3596e3b1-403e-bd12-6c22-80d875e1d144",
+    "es-ES": "26d89018-18d6-168b-283c-28a6de990d81"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/windows-ai-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

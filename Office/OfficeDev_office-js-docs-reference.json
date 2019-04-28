@@ -1,0 +1,125 @@
+{
+  "SourceRepoUri": "https://github.com/OfficeDev/office-js-docs-reference",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "OfficeDev",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/OfficeDev/office-js-docs-reference.pt-BR",
+    "zh-CN": "https://github.com/OfficeDev/office-js-docs-reference.zh-CN",
+    "fr-FR": "https://github.com/OfficeDev/office-js-docs-reference.fr-FR",
+    "de-DE": "https://github.com/OfficeDev/office-js-docs-reference.de-de",
+    "ja-JP": "https://github.com/OfficeDev/office-js-docs-reference.ja-jp",
+    "ru-RU": "https://github.com/OfficeDev/office-js-docs-reference.ru-ru",
+    "es-ES": "https://github.com/OfficeDev/office-js-docs-reference.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_office-js-docs-reference",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "0c449a26-f8a6-a377-2ae8-4af90e8ab360",
+    "zh-CN": "1d8e52d9-648d-d81c-cf4c-3df7b47def1b",
+    "fr-FR": "784dacef-a9f1-cbdd-358d-e67a47b6c1ef",
+    "de-DE": "2508bdd2-d2bb-c75e-bebe-fee6634fb83b",
+    "ja-JP": "37f33066-f345-a4fb-9102-ac6d75dc5b7d",
+    "ru-RU": "f92eb8b3-ca3b-7c30-435c-19dcd29a8f83",
+    "es-ES": "6debf9da-3269-1d5b-d8f2-3cda2ed63155"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/OfficeDev/office-js-docs-reference:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

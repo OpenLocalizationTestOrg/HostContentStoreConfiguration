@@ -1,0 +1,148 @@
+{
+  "SourceRepoUri": "https://github.com/aspnet/EntityFramework.Docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "cs-CZ",
+    "pl-PL",
+    "tr-TR"
+  ],
+  "Owner": "Aspnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/aspnet/EntityFramework.Docs.pt-br",
+    "zh-CN": "https://github.com/aspnet/EntityFramework.Docs.zh-cn",
+    "zh-TW": "https://github.com/aspnet/EntityFramework.Docs.zh-tw",
+    "fr-FR": "https://github.com/aspnet/EntityFramework.Docs.fr-fr",
+    "de-DE": "https://github.com/aspnet/EntityFramework.Docs.de-de",
+    "it-IT": "https://github.com/aspnet/EntityFramework.Docs.it-it",
+    "ja-JP": "https://github.com/aspnet/EntityFramework.Docs.ja-jp",
+    "ko-KR": "https://github.com/aspnet/EntityFramework.Docs.ko-kr",
+    "ru-RU": "https://github.com/aspnet/EntityFramework.Docs.ru-ru",
+    "es-ES": "https://github.com/aspnet/EntityFramework.Docs.es-es",
+    "cs-CZ": "https://github.com/aspnet/EntityFramework.Docs.cs-cz",
+    "pl-PL": "https://github.com/aspnet/EntityFramework.Docs.pl-pl",
+    "tr-TR": "https://github.com/aspnet/EntityFramework.Docs.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "EF_Docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "94a3e0be-1ce6-d7e5-039a-b05173ea5d96",
+    "zh-CN": "8e70b852-554d-9633-036d-b2f3388ae26f",
+    "zh-TW": "bd6cba19-5852-87a2-600f-c6f6bd779d63",
+    "fr-FR": "bacd5de6-0328-c089-0a76-df63231d6435",
+    "de-DE": "4a2fc3cd-f3aa-771b-2c4e-3bdb80127e26",
+    "it-IT": "3fd856f6-f1e7-306a-818b-5e30e22d84be",
+    "ja-JP": "0baf50d4-3c7c-73a0-3357-ddb46cfc7433",
+    "ko-KR": "742fc898-3dcd-330e-962d-d5ae20fe918d",
+    "ru-RU": "e84dbc10-ab2f-7f52-48da-a983dcb42697",
+    "es-ES": "5f67e945-73d0-8073-d4eb-4db47c79d985",
+    "cs-CZ": "7bfc1987-1209-a49e-8f9b-596c03938fab",
+    "pl-PL": "c7b0490c-3bd5-fed9-b5a2-d79bdf2b5695",
+    "tr-TR": "0635d6bd-c936-cd12-be85-6dc851a504e0"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/aspnet/EntityFramework.Docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "cs-CZ",
+    "pl-PL",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

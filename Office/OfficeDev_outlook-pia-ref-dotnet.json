@@ -1,0 +1,127 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_outlook-pia-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "d47ec6dc-d157-dcc0-780d-9ebc5fcaa888",
+    "zh-CN": "c9343148-b08a-48a5-81a5-bc2fec6cee62",
+    "fr-FR": "9889e5b2-5300-4873-8a44-013569ec7b40",
+    "de-DE": "8550edd6-d530-5688-f48e-e76e17c86e3d",
+    "ja-JP": "9e0dd5c4-0fc8-1912-5027-c1c9944fd3ed",
+    "ru-RU": "5becae99-7da5-1d1e-ed98-8726d797e8ff",
+    "es-ES": "1390ecf9-2c44-6bb4-10fb-021a29399d56"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md",
+    ".yml",
+    ".xml"
+  ],
+  "Id": "https://github.com/MicrosoftDocs/office-developer-outlook-pia-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

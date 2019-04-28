@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/microsoftdocs/office-docs-powershell",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-docs-powershell.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-docs-powershell.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/office-docs-powershell.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-docs-powershell.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-docs-powershell.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/office-docs-powershell.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-docs-powershell.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/office-docs-powershell.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-docs-powershell.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-docs-powershell.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_OfficeDocs-Powershell",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "d0694c38-fe52-999c-868a-871393fec9b0",
+    "zh-CN": "398d62d8-f7b9-1119-2ecb-6241d31a579d",
+    "zh-TW": "feb38d00-c4c2-e54b-c882-85f8c2a66756",
+    "fr-FR": "12a5e2b2-ae8b-ead4-b5f4-3790f5b87ec6",
+    "de-DE": "bf5577a1-a2a2-6319-05ac-9b87e96c60b5",
+    "it-IT": "e7119091-0f6a-2922-9ed7-7492db7cd7da",
+    "ja-JP": "4b570d37-759a-f0f8-92a2-11ed0cd4c8ab",
+    "ko-KR": "f1252c46-9212-cd0a-6c60-31c95c5bd825",
+    "ru-RU": "37bade26-2e8e-0f4d-b5b3-e32e1a0465c4",
+    "es-ES": "06fa8a76-03ab-ee02-6e44-360d66547a1e"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/microsoftdocs/office-docs-powershell:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

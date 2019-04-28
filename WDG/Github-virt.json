@@ -1,0 +1,123 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "fr-FR",
+    "de-DE",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.zh-tw",
+    "it-IT": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.ko-kr",
+    "ru-RU": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.ru-ru",
+    "fr-FR": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.de-de",
+    "es-ES": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "elizat@microsoft.com",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "Github-virt",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "1b6e1944-4174-dbca-9782-679ed1d2aedc",
+    "zh-CN": "82da2448-806f-ccda-441d-1f743a7a9373",
+    "zh-TW": "741fc39e-c776-71ba-eae4-0ac23555bd77",
+    "it-IT": "531aca22-ca74-6b95-6ac0-11645800a1bc",
+    "ja-JP": "71c5ae33-e4b1-a71f-807a-714e2023e855",
+    "ko-KR": "a8ac8dd3-102e-3811-8a99-9fc4f3ac74d6",
+    "ru-RU": "f1be91c4-4625-7ac4-a27b-a6fcb8df1fc8",
+    "fr-FR": "430a2fb5-9da3-8e25-505c-696a4b303b0a",
+    "de-DE": "537666ff-d578-8074-ade5-f0cc6f6d7623",
+    "es-ES": "24e61fc6-ad5e-df60-c2f5-84240e50e2ee"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "wdg2"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/Virtualization-Documentation-Private:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "fr-FR",
+    "de-DE",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,110 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/playfab-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "zh-CN",
+    "de-DE",
+    "ja-JP",
+    "ko-KR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/MicrosoftDocs/playfab-docs-pr.zh-CN",
+    "de-DE": "https://github.com/MicrosoftDocs/playfab-docs-pr.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/playfab-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/playfab-docs-pr.ko-KR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "v-satain",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "Playfab-Docs-PR",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "ja-JP": "c894da0b-b2c4-fc35-2d7c-bee1380df014",
+    "ko-KR": "3b035440-3131-ffcb-0e1e-3627fa066a6b"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "False",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "False",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "False",
+    "mergeAdjacentPhTags": "True",
+    "pairHtmlTags": "False",
+    "preset": "wdg",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "True",
+    "useParagraphMarker": "False",
+    "ymlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md"
+  ],
+  "Id": "https://github.com/MicrosoftDocs/playfab-docs-pr:master",
+  "TranslationLocales": [
+    "zh-CN",
+    "de-DE",
+    "ja-JP",
+    "ko-KR"
+  ],
+  "NoLocales": false
+}

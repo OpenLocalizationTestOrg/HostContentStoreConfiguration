@@ -1,0 +1,156 @@
+{
+  "SourceRepoUri": "https://mseng.visualstudio.com/TechnicalContent/TechnicalContent%20Team/_git/tfs-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "mseng",
+  "TargetRepoUris": {
+    "pt-BR": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.pt-br",
+    "zh-CN": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.zh-cn",
+    "zh-TW": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.zh-tw",
+    "cs-CZ": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.cs-cz",
+    "fr-FR": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.fr-fr",
+    "de-DE": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.de-de",
+    "it-IT": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.it-it",
+    "ja-JP": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.ja-jp",
+    "ko-KR": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.ko-kr",
+    "pl-PL": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.pl-pl",
+    "ru-RU": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.ru-ru",
+    "es-ES": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.es-es",
+    "tr-TR": "https://mseng.visualstudio.com/TechnicalContent/_git/tfs-docs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "tfs-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a6c78bb4-ba55-e0d2-ff47-dd025d62dbe3",
+    "zh-CN": "9090afdd-1234-dd3d-237a-c3f78ab6ba5f",
+    "zh-TW": "9c8bbd15-78e3-5679-0334-2df9ed32f767",
+    "cs-CZ": "efb2cfbd-4191-e3a2-a199-a0b1d93b3b04",
+    "fr-FR": "dc12213d-04bc-a511-3b7e-72aada3457d6",
+    "de-DE": "3e7afa93-be16-c40a-bd68-c120b3d1d0e2",
+    "it-IT": "aea514a9-cdb9-a76e-7f02-62ccebd10799",
+    "ja-JP": "9020548e-11c9-98cb-cab2-f1eda47d3bfb",
+    "ko-KR": "cc183659-b98f-65a6-1418-02d0af5e29ba",
+    "pl-PL": "031aad67-68b6-e8a7-7e9f-2d7ec49042eb",
+    "ru-RU": "564ed983-f85f-fbda-1339-a87113b4e97b",
+    "es-ES": "fcb6c16d-82a2-db6d-6b05-5e2650c372c2",
+    "tr-TR": "cc925e5e-87cb-d7b7-ea30-0189a2e63a11"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://mseng.visualstudio.com/TechnicalContent/TechnicalContent%20Team/_git/tfs-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

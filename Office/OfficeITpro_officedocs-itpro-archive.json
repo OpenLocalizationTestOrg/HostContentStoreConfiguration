@@ -1,0 +1,137 @@
+{
+  "SourceRepoUri": "https://docs-archive.visualstudio.com/DefaultCollection/docs-archive-project/_git/officedocs-itpro-archive-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "docs-archive",
+  "TargetRepoUris": {
+    "pt-BR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.pt-br",
+    "zh-CN": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.zh-cn",
+    "zh-TW": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.zh-tw",
+    "fr-FR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.fr-fr",
+    "de-DE": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.de-de",
+    "it-IT": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.it-it",
+    "ja-JP": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.ja-jp",
+    "ko-KR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.ko-kr",
+    "ru-RU": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.ru-ru",
+    "es-ES": "https://docs-archive.visualstudio.com/docs-archive-project/_git/officedocs-itpro-archive-pr.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_officedocs-itpro-archive",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "7d95f69c-d6e6-65d8-d808-a90048059097",
+    "zh-CN": "e10faa2d-ed33-cddb-0277-ec4444a1e757",
+    "zh-TW": "3185ecac-4088-89b7-ebe1-50096a2c3253",
+    "fr-FR": "9281d2df-d482-ebfc-ccc1-d3cfe719c176",
+    "de-DE": "801b7130-a664-9aa2-b1f7-38c4723f9779",
+    "it-IT": "887028f7-e5f0-d43a-ede1-15e1d4e05a0b",
+    "ja-JP": "d57bf9e1-191c-0ce6-7563-57886220ccf8",
+    "ko-KR": "87ccd3bc-15fd-da78-5af2-0d672f05f886",
+    "ru-RU": "5683f2bf-2e52-6f0e-a33f-8d4f7515b2d6",
+    "es-ES": "6e9025d7-cff0-43ad-4839-b6f55232c2e3"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://docs-archive.visualstudio.com/DefaultCollection/docs-archive-project/_git/officedocs-itpro-archive-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

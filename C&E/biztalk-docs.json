@@ -1,0 +1,130 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/biztalk-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/MicrosoftDocs/biztalk-docs.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/biztalk-docs.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/biztalk-docs.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/biztalk-docs.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/biztalk-docs.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/biztalk-docs.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/biztalk-docs.ko-KR",
+    "es-ES": "https://github.com/MicrosoftDocs/biztalk-docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "biztalk-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "4db3b859-8d8d-e2ab-54cd-c66ea1dfee19",
+    "zh-TW": "116e6384-5fb8-641c-00db-66cdaea773a1",
+    "fr-FR": "7c5c66d1-ce85-049a-18aa-598cfe22f2ce",
+    "de-DE": "60e906a6-8fe9-e717-2c3d-14839bd50b86",
+    "it-IT": "c5be937a-938a-7158-8823-95e49d6a95e9",
+    "ja-JP": "3c224685-7572-c99c-05ca-25aba0cfaa1f",
+    "ko-KR": "4d7e62d8-e7d5-2290-421c-5089acdef745",
+    "es-ES": "69212d83-88ab-b965-4a06-dc6fbd2c197f"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/biztalk-docs:live",
+  "TranslationLocales": [
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

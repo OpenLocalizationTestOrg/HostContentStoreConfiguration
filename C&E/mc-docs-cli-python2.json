@@ -1,0 +1,104 @@
+{
+  "SourceRepoUri": "https://github.com/wacn/mc-docs-cli-python",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "zh-CN"
+  ],
+  "Owner": "wacn",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/wacn/mc-docs-cli-python.zh-cn"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ceic_admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "mc-docs-cli-python2",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "cbad8220-262e-d0ad-b112-6d160b5b6dd0"
+  },
+  "TargetRepoPublishBranch": "master",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 0,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/wacn/mc-docs-cli-python:master",
+  "TranslationLocales": [
+    "zh-CN"
+  ],
+  "NoLocales": false
+}

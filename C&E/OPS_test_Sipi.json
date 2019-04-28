@@ -1,0 +1,111 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/ops-test-sipi-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "de-DE",
+    "ja-JP"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "de-DE": "https://github.com/MicrosoftDocs/ops-test-sipi-pr.de-de",
+    "ja-JP": "https://github.com/MicrosoftDocs/ops-test-sipi-pr.ja-jp"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "OPS_test_Sipi",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "c31bf276-c8f9-5f50-6a66-85b9358e0375",
+    "ja-JP": "eb8c8bdf-4d4c-5113-b212-8e764207ba71"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/ops-test-sipi-pr:master",
+  "TranslationLocales": [
+    "de-DE",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

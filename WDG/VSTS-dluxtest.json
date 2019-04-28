@@ -1,0 +1,135 @@
+{
+  "SourceRepoUri": "https://cpubwin.visualstudio.com/_git/zdluxtest",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "es-ES",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU"
+  ],
+  "Owner": "cpubwin",
+  "TargetRepoUris": {
+    "de-DE": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.de-de",
+    "it-IT": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.it-it",
+    "ja-JP": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.ja-jp",
+    "es-ES": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.es-es",
+    "zh-CN": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.zh-cn",
+    "zh-TW": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.zh-tw",
+    "fr-FR": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.fr-fr",
+    "ko-KR": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.ko-kr",
+    "pt-BR": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.pt-br",
+    "ru-RU": "https://cpubwin.visualstudio.com/zdluxtest/_git/zdluxtest.ru-ru"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "elizat",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "VSTS-dluxtest",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "5522424c-08d6-1b33-caa9-cad369ecf13e",
+    "it-IT": "54028362-55ad-9c5a-f8a3-24cefa6dad58",
+    "ja-JP": "7faa76f4-83eb-eaf3-3c8f-cbcd5f22ebd4",
+    "es-ES": "6f2d964e-99ed-5aeb-b10d-59fff0831b16",
+    "zh-CN": "230910f1-d292-851f-cfa3-861090ab323c",
+    "zh-TW": "e1c1673b-2ef6-d1f4-0d64-548db4653628",
+    "fr-FR": "3c6b2a6c-8cbc-4409-7139-7f74079bd3c5",
+    "ko-KR": "e534ecbb-03e3-8b23-81e0-9abbd0032e3d",
+    "pt-BR": "ce7cfdea-5658-99e7-1a49-ab7adab1696f",
+    "ru-RU": "5d7fc509-d9ab-9b22-4833-7b25223824ac"
+  },
+  "TargetRepoPublishBranch": "master",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "False",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "False",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "False",
+    "mergeAdjacentPhTags": "True",
+    "pairHtmlTags": "False",
+    "preset": "wdg",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "True",
+    "useParagraphMarker": "False",
+    "ymlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://cpubwin.visualstudio.com/_git/zdluxtest:master",
+  "TranslationLocales": [
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "es-ES",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU"
+  ],
+  "NoLocales": false
+}

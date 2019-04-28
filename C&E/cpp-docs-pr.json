@@ -1,0 +1,154 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/cpp-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/cpp-docs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/cpp-docs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/cpp-docs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/cpp-docs-pr.cs-cz",
+    "fr-FR": "https://github.com/MicrosoftDocs/cpp-docs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/cpp-docs-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/cpp-docs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/cpp-docs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/cpp-docs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/cpp-docs-pr.pl-pl",
+    "ru-RU": "https://github.com/MicrosoftDocs/cpp-docs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/cpp-docs-pr.es-es",
+    "tr-TR": "https://github.com/MicrosoftDocs/cpp-docs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "cpp-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "ee2027a8-8cfe-626c-8597-10e50f91e1af",
+    "zh-CN": "50414772-eddd-13e9-0959-477ca3cb4017",
+    "zh-TW": "2a1ae346-87a1-3e66-d6a7-85e65211c25a",
+    "cs-CZ": "92c53bb0-ed56-405b-431e-ec167fed4bea",
+    "fr-FR": "f950a2bf-03c0-e898-2139-9db43fdb5e62",
+    "de-DE": "b07db7d7-cd96-e44b-0e0b-3b7d52cda96e",
+    "it-IT": "c461f970-5275-e484-2bc0-23b0e9170221",
+    "ja-JP": "4816c145-b925-5999-cd1a-a62e40d9fdec",
+    "ko-KR": "66203860-6b50-5d30-0634-c1f96b993840",
+    "pl-PL": "9fc3835e-676e-73c9-4565-997b13c19233",
+    "ru-RU": "0e58cd76-d9d8-7a05-5022-2a9fe0dfef0d",
+    "es-ES": "7d239c93-aaa1-6fa7-e7ed-87b584034d79",
+    "tr-TR": "508ee689-3108-25e9-2b14-aa52da0ec845"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\docs\\msdn.4.5.2.zip",
+    "**\\docs\\namespaces.4.5.2.zip",
+    "**\\docs\\office15.zip",
+    "**\\docs\\vs.110.zip",
+    "**\\docs\\vs.140.zip"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/cpp-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

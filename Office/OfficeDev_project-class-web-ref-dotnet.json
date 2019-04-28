@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_project-class-web-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "f7ee6eed-74da-2328-9327-89c77418cf05",
+    "zh-CN": "5b25a38b-9548-6a1f-e233-68c41b1edb20",
+    "fr-FR": "1cc57b20-fc7e-3605-5fb8-4b6ff431e396",
+    "de-DE": "3805d888-0551-f5ec-1649-1c2f21aa4668",
+    "ja-JP": "b2a8ed16-461a-1990-fab2-49a353bbe0e4",
+    "ru-RU": "7a191c52-f16c-b8ce-0579-ef64181632f6",
+    "es-ES": "b7d2f582-99f7-f6e4-80b9-58638ae7b27e"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/office-developer-project-class-web-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

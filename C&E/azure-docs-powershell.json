@@ -1,0 +1,175 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-docs-powershell",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-powershell.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-powershell.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-powershell.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/azure-docs-powershell.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/azure-docs-powershell.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-powershell.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-powershell.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/azure-docs-powershell.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-powershell.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-powershell.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-powershell.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/azure-docs-powershell.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/azure-docs-powershell.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-powershell.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-powershell.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/azure-docs-powershell.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/azure-docs-powershell.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-powershell",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "64197f3d-2900-420c-e801-36c1de9b02e1",
+    "zh-CN": "09806391-84e0-d84e-6e73-d16467704937",
+    "zh-TW": "dafcddf9-96ce-f8b4-dbcf-acca336f142f",
+    "cs-CZ": "ebf5d876-a5c1-fd7f-8da8-b8ee2b8ca437",
+    "nl-NL": "687b2d7f-b2a6-375a-e440-4086d030f91e",
+    "fr-FR": "be9e4026-5f41-0b03-2618-3cb2b8cbf5d8",
+    "de-DE": "8db5eeb4-0566-17bc-d78c-6dd8932abff1",
+    "hu-HU": "3d8a708d-7314-565d-fb12-1781db49d477",
+    "it-IT": "2d7c770b-65a3-9525-3257-56923c846b20",
+    "ja-JP": "e1b184b1-1644-e922-587a-9be26ee63775",
+    "ko-KR": "d72302d6-64b7-9289-bf3e-d81984807da3",
+    "pl-PL": "c048838b-3a9c-dfff-b380-c26eba393499",
+    "pt-PT": "b7e2c7ee-16b0-542a-89e6-437f606b5153",
+    "ru-RU": "c9dd7bae-0803-44b1-bafa-a073647a8c46",
+    "es-ES": "846a058c-b068-d663-bee9-dae1a030b995",
+    "sv-SE": "a95788e2-9288-2610-db9a-470c70412874",
+    "tr-TR": "e580c259-8851-cffe-968e-b8d34c83a200"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\mapping\\*"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-docs-powershell:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

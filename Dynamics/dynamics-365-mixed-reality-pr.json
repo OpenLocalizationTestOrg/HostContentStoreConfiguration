@@ -1,0 +1,118 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "ja-JP"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr.zh-tw",
+    "fr-FR": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr.de-de",
+    "ja-JP": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr.ja-jp"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "DynamicsIPE-mdocs",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "olprod"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "dynamics-365-mixed-reality-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "8e25ff1f-adef-c97c-1780-435d58114893",
+    "zh-TW": "85675be0-c7d7-49d5-6d13-924dccb1af85",
+    "fr-FR": "d762bc74-c4e8-3c45-586e-a348854d8764",
+    "de-DE": "66df2acc-d2fd-2a55-a97f-278e49a4a0d3",
+    "ja-JP": "200b324e-c852-3ef8-5e38-ddbdb74b4e06"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr:master",
+  "TranslationLocales": [
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

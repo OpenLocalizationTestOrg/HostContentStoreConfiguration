@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_-o365-service-communications-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "fcc25ce7-a5b6-296f-867f-54ed514ab1ba",
+    "zh-CN": "c65f8be0-ef78-95c1-dfb1-2057d10a02fc",
+    "fr-FR": "90a7687b-7666-1892-8d3b-49570cf5f97c",
+    "de-DE": "74c0c516-a9d2-5d37-3516-7e04e765ba08",
+    "ja-JP": "18143d4d-3d57-9d3c-6f5c-a41703f36d4a",
+    "ru-RU": "5b9f4d06-2bf3-b1d6-08db-d5bb08a94311",
+    "es-ES": "7c3ac526-62f9-5813-03ac-0fc86164451e"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/office-developer-o365-service-communications-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

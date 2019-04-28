@@ -1,0 +1,152 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/MIMDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/MIMDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/MIMDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/MIMDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/MIMDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/MIMDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/MIMDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/MIMDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/MIMDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/MIMDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/MIMDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/MIMDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/MIMDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/MIMDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/MIMDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/MIMDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/MIMDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/MIMDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "MIMDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "d7546c13-b907-4d0d-81ea-46428e5465d4",
+    "zh-CN": "2c18be51-d74b-c4b2-3dda-5549d4d1dede",
+    "zh-TW": "54d45bfb-b135-bb3a-1c79-1796ed79e5c1",
+    "cs-CZ": "525e8c93-05aa-c610-0c18-fac8227c8597",
+    "nl-NL": "23a343da-4442-0be9-9e48-342abb13d92f",
+    "fr-FR": "02986661-9d94-a181-8e68-4de8bab2d07d",
+    "de-DE": "16a277d2-bff6-df1b-b360-69d2957a8018",
+    "hu-HU": "261eb918-4d3f-df1a-3de7-8975f0527bc0",
+    "it-IT": "fdd4b319-2317-afde-b2e5-c78e3fc96a1a",
+    "ja-JP": "c70d72c5-353b-c2e4-9218-d727fa29e08a",
+    "ko-KR": "5d1b0588-51f0-998b-b970-1ea05d0eebde",
+    "pl-PL": "e9b7db06-3fcf-da56-718c-9cf7809684ab",
+    "pt-PT": "5731c22a-a83b-ff19-55c5-f069ada78299",
+    "ru-RU": "d1070708-b293-9031-3a26-0caf0a5dbf68",
+    "es-ES": "441940b3-eb0e-eab4-c86c-eed8df2a1267",
+    "sv-SE": "4dc6cd59-a400-c1f2-6952-a39dd7c97fbf",
+    "tr-TR": "65488cd8-85ba-2978-4021-0e227678a97c"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/MIMDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

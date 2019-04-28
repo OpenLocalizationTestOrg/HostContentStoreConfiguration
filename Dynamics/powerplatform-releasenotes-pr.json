@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.pt-br",
+    "da-DK": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.da-dk",
+    "nl-NL": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.nl-nl",
+    "fi-FI": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.fi-fi",
+    "fr-FR": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.ja-jp",
+    "nb-NO": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.nb-no",
+    "es-ES": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr.sv-se"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "DynamicsIPE-mdocs",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "olprod"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "powerplatform-releasenotes-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "6600b05e-2fc1-4fb1-a4d6-179a77031dc1",
+    "da-DK": "ce0e4e68-fee6-9c7d-8ae7-8b9cd346adb1",
+    "nl-NL": "fcb1f8b6-79e4-f4b6-38e0-c601bbafecf3",
+    "fi-FI": "798e561d-7447-c39f-4509-7836f574dce5",
+    "fr-FR": "5b824b58-3fe1-e935-466e-5c3d9bb53b2a",
+    "de-DE": "37a64f40-aae1-abda-4a55-36c249051d53",
+    "it-IT": "0aac532d-a4c2-2835-e648-104920ca0be6",
+    "ja-JP": "bcee0442-1b68-59f6-5548-4c483be3112f",
+    "nb-NO": "a92b04f6-48d6-251d-3610-c70e94e05391",
+    "es-ES": "6468cf67-7956-b305-8759-a6668dec2a5e",
+    "sv-SE": "2e2db267-c35c-1a13-d283-5f79a4f8e6f4"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "NoLocales": false
+}

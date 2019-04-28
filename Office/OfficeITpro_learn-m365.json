@@ -1,0 +1,134 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-m365-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-m365-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-m365-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-m365-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-m365-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-m365-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-m365-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-m365-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-m365-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/learn-m365-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-m365-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeDocs-Localization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_learn-m365",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "1366afe5-3739-973c-24cb-92126b11af22",
+    "zh-CN": "1095daa4-4906-c7d6-38c1-d7f1d4e4b4c8",
+    "zh-TW": "1aac2395-0f30-00c7-b55d-e69f3c06b1c5",
+    "fr-FR": "f26e9641-0cad-0dd8-ecb7-1d5cfa3b8f02",
+    "de-DE": "22109d11-888b-83c8-671e-61ba474abed2",
+    "it-IT": "296f4834-1c81-af17-7bf1-aeabbd88358b",
+    "ja-JP": "c0d29d68-6c3b-c32c-d061-6f2cc5fee46a",
+    "ko-KR": "4e27ce18-b3d4-458c-8640-8f557897b087",
+    "ru-RU": "59f775d5-b914-198a-278d-e0a478482d15",
+    "es-ES": "ea451fee-93f4-9f5b-faf9-7a2a5c612e2a"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-m365-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,144 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "MicrosoftCollaboratePortal",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "6ec10fbb-7404-6b3a-6c30-d85e6c2d0048",
+    "zh-CN": "1d93e689-9c9c-a351-f114-ed8a45958f0d",
+    "zh-TW": "bba19015-04cf-81f5-614a-088a6d7f3b1e",
+    "fr-FR": "207e3526-0624-5756-62e5-639d74ede579",
+    "de-DE": "552a4cf1-1636-9c2d-9eb6-5b2ee494d372",
+    "it-IT": "29fae072-cff7-b0f4-3109-9ae6923a7d68",
+    "ja-JP": "0124cadb-0881-782c-bb0e-d23c024967c5",
+    "ko-KR": "676960d4-5088-baa6-a99d-7dd1b5ce35be",
+    "ru-RU": "ac505213-9755-eea8-8d86-d8f642c26909",
+    "es-ES": "604361a8-7f61-13bb-782c-f443af397370"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

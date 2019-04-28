@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://cpubwin.visualstudio.com/_git/windows-insider",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "cpubwin",
+  "TargetRepoUris": {
+    "pt-BR": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.pt-BR",
+    "zh-CN": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.zh-CN",
+    "zh-TW": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.zh-TW",
+    "fr-FR": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.fr-FR",
+    "de-DE": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.de-DE",
+    "it-IT": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.it-IT",
+    "ja-JP": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.ja-JP",
+    "ko-KR": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.ko-KR",
+    "ru-RU": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.ru-RU",
+    "es-ES": "https://cpubwin.visualstudio.com/windows-insider/_git/windows-insider.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "olprod",
+      "elizaoly",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "VSTS-windows-insider",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "e8a9d6d2-e421-8307-694c-a372f88924e1",
+    "zh-CN": "a9147224-9aba-9a15-dec8-c8204bb020f2",
+    "zh-TW": "7037543b-a83c-bccf-db9e-85e8d2a37146",
+    "fr-FR": "dde4a164-0854-27c3-1e84-b068a7879d1f",
+    "de-DE": "97b046a2-9579-d10a-2fed-af2c25cc139d",
+    "it-IT": "330de661-813b-c01d-73d3-81056d9f5c47",
+    "ja-JP": "0c5585ff-e4a9-7cc3-2308-30b6cace0917",
+    "ko-KR": "5efd20d8-e382-e364-c17f-c3232b006ed4",
+    "ru-RU": "c735f464-8c4a-37ac-11cb-cf912ad7e584",
+    "es-ES": "431a0ae5-4a4a-3548-239a-94f05de73a1f"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "False",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "False",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "False",
+    "mergeAdjacentPhTags": "True",
+    "pairHtmlTags": "False",
+    "preset": "wdg",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "True",
+    "useParagraphMarker": "False",
+    "ymlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://cpubwin.visualstudio.com/_git/windows-insider:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,169 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-stack-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/azure-stack-docs-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-stack",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "d590905f-cde2-dc2f-5b2c-f16655823cdb",
+    "zh-CN": "b68cbe7c-d41e-69bb-5a83-ad0bff041724",
+    "zh-TW": "07019a7f-8a12-ec74-03bb-ca9ad5ad3fd8",
+    "cs-CZ": "313aef5a-8958-c12a-2b76-4afd54b12b41",
+    "nl-NL": "d4a2ce9f-17b7-5073-33f1-7f7317bb69bf",
+    "fr-FR": "5b7e05dd-0658-c456-d276-53f86977a121",
+    "de-DE": "b20cb9d2-4c20-9ac9-da84-a2076451b9bf",
+    "hu-HU": "c3339682-6938-64ec-7fe2-bd3563e01a32",
+    "it-IT": "f973c406-4234-59a1-373e-f87c0e3b3d54",
+    "ja-JP": "e3c5bc40-173a-bc0c-eb79-f907ec44a709",
+    "ko-KR": "22389708-95eb-0dbb-7747-6c5d23178a95",
+    "pl-PL": "74285767-e6b5-5c63-e15c-eaf1cef2b613",
+    "pt-PT": "c05f4daf-7cef-348e-8eeb-72f8e98d67a3",
+    "ru-RU": "07fe228b-20e8-a72b-0cdd-e530108c6922",
+    "es-ES": "3d7aaee0-be90-d8a5-4c4d-47462127cfd2",
+    "sv-SE": "4192a907-eac7-2bea-66e3-579a8273e15c",
+    "tr-TR": "05bc23d8-e36c-da6c-6b24-7458738e76c4"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-stack-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

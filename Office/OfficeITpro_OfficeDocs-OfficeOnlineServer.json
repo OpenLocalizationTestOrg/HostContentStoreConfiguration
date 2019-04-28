@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_OfficeDocs-OfficeOnlineServer",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "9d1b57d1-8f9f-c156-6521-f9d70390bd22",
+    "zh-CN": "027a1aa0-c963-5296-faab-c173d883ddf3",
+    "zh-TW": "720115b8-7ae2-e83b-a42e-68ddbfca24fd",
+    "fr-FR": "b16b468a-042d-8776-0846-af5848f5ec69",
+    "de-DE": "3b892c2f-a754-de3b-5b6a-ebd4a50d5c1d",
+    "it-IT": "c599027a-a7e8-b5a7-e63e-06e8e114992a",
+    "ja-JP": "148d3196-408d-ba03-b572-820e1ac3b665",
+    "ko-KR": "d6bf629c-86f4-e92d-ba8b-5b8e52406163",
+    "ru-RU": "9c7cdf67-613f-d120-7be3-301f47e3866f",
+    "es-ES": "94e726f8-3190-48ab-0b55-6458ef6af495"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeOnlineServer-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

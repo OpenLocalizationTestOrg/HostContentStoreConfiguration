@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_OfficeDocs-SharePoint",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "80e8646a-08cf-45fb-43cc-6a9280d6d0c3",
+    "zh-CN": "469c4301-87bc-e738-c405-8213914b4f28",
+    "zh-TW": "b72f650d-053a-95f7-9dd9-2b4d4d207264",
+    "fr-FR": "f823487a-221d-37ea-982f-28fe96028282",
+    "de-DE": "526fd15a-1c3a-81fe-e955-58b897f10f2b",
+    "it-IT": "a65a1118-e462-9eb9-96c6-d1c96813811f",
+    "ja-JP": "86ab1984-ac2f-86ba-085f-6ec9520005fb",
+    "ko-KR": "f32bd067-8095-439a-8cd2-83af15287686",
+    "ru-RU": "5cfb4dc9-6c45-baf9-799b-5fa4af7a378b",
+    "es-ES": "4bb3791e-d972-55fa-c0f8-c487d2ea46c9"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-SharePoint-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,86 @@
+{
+  "SourceRepoUri": "https://github.com/wacn/mc-docs-pr.en-us",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "zh-CN"
+  ],
+  "Owner": "wacn",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/wacn/mc-docs-pr.zh-cn"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live-oldev",
+  "TargetRepoBilingualBranch": "live-oldev-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live-oldev",
+    "live-oldev-sxs",
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "mc-docs-pr.en-us",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "zh-CN": "895beed3-003e-b4c4-0229-a2aa5c9d7348"
+  },
+  "TargetRepoPublishBranch": "live-oldev-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 0,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/wacn/mc-docs-pr.en-us:live",
+  "TranslationLocales": [
+    "zh-CN"
+  ],
+  "NoLocales": false
+}

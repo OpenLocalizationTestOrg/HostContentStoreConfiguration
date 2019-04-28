@@ -1,0 +1,140 @@
+{
+  "SourceRepoUri": "https://github.com/dotnet/csharplang",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "Dotnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/dotnet/csharplang.pt-br",
+    "zh-CN": "https://github.com/dotnet/csharplang.zh-cn",
+    "zh-TW": "https://github.com/dotnet/csharplang.zh-tw",
+    "cs-CZ": "https://github.com/dotnet/csharplang.cs-cz",
+    "fr-FR": "https://github.com/dotnet/csharplang.fr-fr",
+    "de-DE": "https://github.com/dotnet/csharplang.de-de",
+    "it-IT": "https://github.com/dotnet/csharplang.it-it",
+    "ja-JP": "https://github.com/dotnet/csharplang.ja-jp",
+    "ko-KR": "https://github.com/dotnet/csharplang.ko-kr",
+    "pl-PL": "https://github.com/dotnet/csharplang.pl-pl",
+    "ru-RU": "https://github.com/dotnet/csharplang.ru-ru",
+    "es-ES": "https://github.com/dotnet/csharplang.es-es",
+    "tr-TR": "https://github.com/dotnet/csharplang.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "dotnet-csharplang",
+  "PublishPlatform": "General",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/dotnet/csharplang:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

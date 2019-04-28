@@ -1,0 +1,156 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/visualstudio-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.cs-cz",
+    "fr-FR": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.pl-pl",
+    "ru-RU": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.es-es",
+    "tr-TR": "https://github.com/MicrosoftDocs/visualstudio-docs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "visualstudio-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "2818ed23-4182-3143-a125-5f6c29be8e7d",
+    "zh-CN": "a9a58c5d-85b9-5441-1061-b896b609e184",
+    "zh-TW": "9d8ac3d7-5312-10bc-f87c-50f5fe17cfae",
+    "cs-CZ": "78e55721-3775-43c5-2cf3-3bf94c724f6c",
+    "fr-FR": "8086010b-71e7-adf7-2aa4-69ef2aeb0f53",
+    "de-DE": "ee807718-b2ee-ef85-5358-87c98b4f82b9",
+    "it-IT": "676b4ce5-bbff-e08a-5d1a-20246eef1182",
+    "ja-JP": "35b5c469-7e52-0e60-cf9e-805549c7d776",
+    "ko-KR": "86b59a3a-ac99-a341-fc13-e1b2e00a4264",
+    "pl-PL": "f95adaf4-1e5d-627b-9761-efdba6cd26c5",
+    "ru-RU": "afd5566e-b143-9263-3f31-2eca47ac8b1a",
+    "es-ES": "84d91f02-1f74-5ad8-4587-338deac1d79a",
+    "tr-TR": "9621bf24-9904-d76d-43ba-b750cba2d9e4"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\docs\\missingapi.yml",
+    "**\\docs\\vs.140.zip",
+    "**\\scripting-docs\\msdn.4.5.2.zip",
+    "**\\scripting-docs\\namespaces.4.5.2.zip",
+    "**\\scripting-docs\\office15.zip",
+    "**\\scripting-docs\\vs.110.zip",
+    "**\\scripting-docs\\vs.140.zip"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/visualstudio-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

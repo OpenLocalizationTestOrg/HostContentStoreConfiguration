@@ -1,0 +1,143 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-csp-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "pt-BR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-csp-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-csp-pr.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-csp-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-csp-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-csp-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-csp-pr.es-ES",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-csp-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-csp-pr.zh-TW",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-csp-pr.it-IT",
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-csp-pr.pt-BR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-csp-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "fr-FR": "1b5f9995-5c9d-102b-5339-9ff982212322",
+    "de-DE": "4891c4c5-446e-20a9-6112-b1cb4a4a54c0",
+    "ja-JP": "c1d39900-6793-cc06-7526-0b1a41cbf580",
+    "ko-KR": "250b1615-d03d-72d8-3403-6abcf424f051",
+    "ru-RU": "42167673-3a61-5eed-4e65-3eaaa7b8dacc",
+    "es-ES": "bff65599-225d-8eaf-fcea-dfba1ee9edf1",
+    "zh-CN": "43886739-8d76-a2e5-9cfa-67d00075aff1",
+    "zh-TW": "c0619d0f-2c40-9637-f996-cb7c82949b66",
+    "it-IT": "2f3c7e44-6753-43f3-de4d-060d3817b7c5",
+    "pt-BR": "77bd8542-1778-97ec-07cf-fa73da7bf039"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-csp-pr:live",
+  "TranslationLocales": [
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "pt-BR"
+  ],
+  "NoLocales": false
+}

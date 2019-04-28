@@ -1,0 +1,173 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/sccm-docs-powershell",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "sv-SE",
+    "tr-TR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/sccm-docs-powershell.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/sccm-docs-powershell.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/sccm-docs-powershell.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/sccm-docs-powershell.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/sccm-docs-powershell.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/sccm-docs-powershell.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/sccm-docs-powershell.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/sccm-docs-powershell.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/sccm-docs-powershell.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/sccm-docs-powershell.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/sccm-docs-powershell.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/sccm-docs-powershell.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/sccm-docs-powershell.pt-PT",
+    "sv-SE": "https://github.com/MicrosoftDocs/sccm-docs-powershell.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/sccm-docs-powershell.tr-TR",
+    "ru-RU": "https://github.com/MicrosoftDocs/sccm-docs-powershell.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/sccm-docs-powershell.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "sccm-docs-powershell",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "cf455d95-cc18-ad57-57c5-18d73d50bffe",
+    "zh-CN": "8e1e3a6d-3025-6988-6067-b48be86b26cb",
+    "zh-TW": "8557eb62-cf77-9d38-6167-1730e8d0c585",
+    "cs-CZ": "4682699d-ea4a-f588-363d-d6dae5fe18f4",
+    "nl-NL": "e1854dab-c6b1-25ee-9bd3-287263d55fe2",
+    "fr-FR": "ac12a6c6-54cc-26d8-5d07-4e990a615e57",
+    "de-DE": "0b7b86b2-1a69-d1e6-4055-a91e6a05354e",
+    "hu-HU": "6e990c60-977d-9e98-62c1-d50de3f010c9",
+    "it-IT": "e1748c92-52bf-4e17-5e92-78e85fa7367c",
+    "ja-JP": "855ffd9f-eb6b-347e-b33f-76b635c30a2e",
+    "ko-KR": "ed5e20b7-734d-a36c-68c0-6d03216ac5c7",
+    "pl-PL": "89484af1-5335-3102-d3d4-9c270b574c71",
+    "pt-PT": "1921baee-e211-44e7-5e17-c91cae5817c3",
+    "sv-SE": "796c9cb0-d79d-429f-1052-479a1a2de648",
+    "tr-TR": "0c144fb9-f628-7273-54ae-115269aa91fd",
+    "ru-RU": "da41f616-563a-a26c-d21c-0ffa7537a35e",
+    "es-ES": "6686d3a9-1dc2-ef61-1109-b921d0b6c3ea"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/sccm-docs-powershell:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "sv-SE",
+    "tr-TR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

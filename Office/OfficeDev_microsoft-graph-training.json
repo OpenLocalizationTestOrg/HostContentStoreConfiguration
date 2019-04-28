@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/microsoftgraph/microsoft-graph-training",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftGraph",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/microsoftgraph/microsoft-graph-training.pt-BR",
+    "zh-CN": "https://github.com/microsoftgraph/microsoft-graph-training.zh-CN",
+    "fr-FR": "https://github.com/microsoftgraph/microsoft-graph-training.fr-FR",
+    "de-DE": "https://github.com/microsoftgraph/microsoft-graph-training.de-DE",
+    "ja-JP": "https://github.com/microsoftgraph/microsoft-graph-training.ja-JP",
+    "ru-RU": "https://github.com/microsoftgraph/microsoft-graph-training.ru-RU",
+    "es-ES": "https://github.com/microsoftgraph/microsoft-graph-training.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ops-and-localization-admin",
+      "openlocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_microsoft-graph-training",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c8462a09-cbce-9187-ff58-74a2bd78b1ce",
+    "zh-CN": "85ae1df0-729a-9767-1402-df58eee28016",
+    "fr-FR": "25498265-83ab-3fd3-a57b-977e7aeaf800",
+    "de-DE": "6a318528-0843-afe7-bce6-84295e674668",
+    "ja-JP": "402025a4-7643-934c-4451-37d6b588eec1",
+    "ru-RU": "df7be475-c7c8-7924-b16c-8238d761e5a4",
+    "es-ES": "49799ab8-34fa-3c82-9aeb-7e997adbaeb7"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/microsoftgraph/microsoft-graph-training:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,143 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE",
+    "el-GR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.pt-BR",
+    "da-DK": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.da-DK",
+    "nl-NL": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.nl-NL",
+    "fi-FI": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.fi-FI",
+    "fr-FR": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.ja-JP",
+    "nb-NO": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.nb-NO",
+    "es-ES": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.sv-SE",
+    "el-GR": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest.el-GR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "DynamicsIPE-mdocs",
+      "olprod",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "D365-RN-iCMSTest",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "e3443b44-96de-13ed-fc54-d67063025665",
+    "da-DK": "a450fa76-52ae-04e5-f309-47051c7b8ef6",
+    "nl-NL": "25436665-743e-b33f-0f64-8a9b43ca018d",
+    "fi-FI": "ab3d62d6-6480-d8ac-9a6a-e86dd3ba2344",
+    "fr-FR": "7c10e226-9221-fa2d-35ec-63963add6239",
+    "de-DE": "7ee50b23-815c-2748-a3f9-385dde4e1c47",
+    "it-IT": "f056e45a-8f68-104e-2e69-432c5eb89c17",
+    "ja-JP": "9bb63bd5-40da-1c38-6d77-87b4ec7703ac",
+    "nb-NO": "6e5fa750-d888-99fd-c468-77fc9d21b827",
+    "es-ES": "d9c1e632-3a2d-3ea2-719b-6eac16cd3c6f",
+    "sv-SE": "bcd12b55-593f-2aff-fbe1-3336a22ee611"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/D365-RN-iCMSTest:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE",
+    "el-GR"
+  ],
+  "NoLocales": false
+}

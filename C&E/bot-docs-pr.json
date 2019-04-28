@@ -1,0 +1,172 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/bot-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/bot-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/bot-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/bot-docs-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/bot-docs-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/bot-docs-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/bot-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/bot-docs-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/bot-docs-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/bot-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/bot-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/bot-docs-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/bot-docs-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/bot-docs-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/bot-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/bot-docs-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/bot-docs-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/bot-docs-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "bot-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "42168536-78b3-4769-c16b-ac3736af1ae8",
+    "zh-CN": "69a7cedc-9083-9aef-48ab-139cd56740f6",
+    "zh-TW": "70cc40d3-2468-c722-e244-3ff85d1c4768",
+    "cs-CZ": "d4919a2f-8d9d-1dc4-f8fa-7cb30baf10e3",
+    "nl-NL": "fc2e4b6b-c4c2-8c0a-5791-9ad70a936343",
+    "fr-FR": "d7d2c035-cf78-38e0-b52b-4493b14ebff9",
+    "de-DE": "4cea80a9-c03a-c7aa-5faf-7b9e595ae457",
+    "hu-HU": "a10cc3a9-f681-bdd4-9adc-b2abc6607dd2",
+    "it-IT": "59b68b6e-4a69-ea32-9762-4c1b33e39516",
+    "ja-JP": "632711d5-6860-6ee6-6c1c-b3f84f2053fe",
+    "ko-KR": "e873782d-f488-d423-6a51-1b42f0f3c100",
+    "pl-PL": "c4d2c2fc-c34c-8915-e13a-227cb82f210b",
+    "pt-PT": "520ede1e-7bc8-0248-5e38-5c2f40184d86",
+    "ru-RU": "ce01b2c5-233d-f891-1040-42de0c979efe",
+    "es-ES": "190f6bd8-f276-a69e-c8e3-8d9e5de4776b",
+    "sv-SE": "612993e5-795f-e8a8-523b-337adb363097",
+    "tr-TR": "ff7f295d-145a-630e-cb7a-46d5a9da7037"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/bot-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

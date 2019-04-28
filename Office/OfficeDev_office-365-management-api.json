@@ -1,0 +1,125 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-365-management-api",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-365-management-api.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-365-management-api.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-365-management-api.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-365-management-api.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-365-management-api.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-365-management-api.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-365-management-api.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeDocs-Localization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_office-365-management-api",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "675fd85d-7ec0-4b41-8f17-b7524fe0cbd6",
+    "zh-CN": "5d6b8344-846e-734f-a230-9938a3b872dd",
+    "fr-FR": "b36ece19-6eb7-c286-d10b-1fcc8689af06",
+    "de-DE": "091cdec6-c22d-b175-b95a-e7ba786cb2de",
+    "ja-JP": "fa893813-ad20-9c21-e0e8-a3e877e54ccf",
+    "ru-RU": "ce90460a-8c0f-a431-aa65-8195ecd411ed",
+    "es-ES": "6edcde5a-5457-edbf-605e-89858450ff93"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/office-365-management-api:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

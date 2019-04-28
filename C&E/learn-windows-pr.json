@@ -1,0 +1,144 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-windows-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-windows-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-windows-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-windows-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-windows-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-windows-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-windows-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-windows-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-windows-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/learn-windows-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-windows-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "learn-windows-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "8efd233a-1744-ae1e-a210-b24190753db6",
+    "zh-CN": "4d9c6250-4cbf-226c-8662-76d4e2264fdf",
+    "zh-TW": "494b2f7c-cb9f-4125-7b6a-b63b460764de",
+    "fr-FR": "345d0216-969a-bfd4-621f-ccdfa5c51455",
+    "de-DE": "5c0ad2ca-21a3-6fe7-a92e-0d21afb2bd01",
+    "it-IT": "9840a0f9-ba80-f62a-66c3-ae821a31c912",
+    "ja-JP": "d3814842-f991-871c-d92e-84fc2de60296",
+    "ko-KR": "a88fe6ac-3e03-07cd-fa5e-9acdd08fcce1",
+    "ru-RU": "e802be12-092b-15b8-a9cd-469dc434e891",
+    "es-ES": "650c826e-786d-9079-0087-ca34300fd0ba"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": true,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-windows-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

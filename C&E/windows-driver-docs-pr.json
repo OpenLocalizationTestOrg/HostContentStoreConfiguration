@@ -1,0 +1,145 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/windows-driver-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/windows-driver-docs-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "windows-driver-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "4f6aeca2-d3d0-f618-ab23-89dafdfa4778",
+    "zh-CN": "2d2cf688-17b7-8557-9d44-ab2d38b0152c",
+    "zh-TW": "36eb59a2-6bfd-f7d1-ccfc-7f65d0719e1b",
+    "fr-FR": "cfb46351-0651-f774-c49b-5363f11dff73",
+    "de-DE": "b392e187-14e3-6e8c-83f3-a74cb376d0e4",
+    "it-IT": "0eff93fc-5a28-cfce-3de1-31c20165f202",
+    "ja-JP": "e85b3076-bf40-2053-0723-5821522b642e",
+    "ko-KR": "7907b63f-097f-b6c3-b753-65df65f2a73b",
+    "ru-RU": "76d67659-f434-e45d-3cbe-be44b9c05ce8",
+    "es-ES": "124e3725-4411-aee0-6b47-5e16bf36f050"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/windows-driver-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

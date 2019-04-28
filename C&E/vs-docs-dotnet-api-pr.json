@@ -1,0 +1,161 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.cs-cz",
+    "fr-FR": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.pl-pl",
+    "ru-RU": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.es-es",
+    "tr-TR": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "vs-docs-dotnet-api-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "77080aa5-8406-2618-d900-73ca4dbf6511",
+    "zh-CN": "d7b5c361-aeb9-cb92-0e2b-cebac75484d3",
+    "zh-TW": "3e3b038a-dbd1-351a-a628-fc2c803a1d17",
+    "cs-CZ": "ce4f9a6e-4702-1635-fc94-3b2a3ed8faec",
+    "fr-FR": "2677d467-2b49-0e20-5b6e-f563bfb7e6e3",
+    "de-DE": "f06c838d-3e2b-99b1-08ef-b89adf9383d0",
+    "it-IT": "c25a4833-4de2-6af3-4a9b-c07b77fd5a6f",
+    "ja-JP": "60af8e71-b4a1-36cd-9d92-3d38b3078031",
+    "ko-KR": "961d3056-614c-45dc-e951-492256b4d72c",
+    "pl-PL": "169146a2-aa5c-77df-d4a5-e0f96f9dfaf6",
+    "ru-RU": "20044b0b-057f-ad16-9113-71a17a76d507",
+    "es-ES": "932edd65-4876-9fdc-4feb-45d34bed50c4",
+    "tr-TR": "acc5c6fc-7116-d6e9-4028-dc3f08b350aa"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\dotnet-vssdk\\msdn.4.5.2.zip",
+    "**\\dotnet-vssdk\\namespaces.4.5.2.zip",
+    "**\\dotnet-vssdk\\office15.zip",
+    "**\\dotnet-vssdk\\vs.110.zip",
+    "**\\dotnet-vssdk\\vs.140.zip"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/visualstudio-docs-dotnet-api-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

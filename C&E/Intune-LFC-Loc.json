@@ -1,0 +1,103 @@
+{
+  "SourceRepoUri": "https://ceapex.visualstudio.com/CEINTL/Content%20PM/_git/Intune-LFC-Loc",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": null,
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": null,
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master-HB",
+  "TargetRepoBilingualBranch": "master-HB-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master-HB",
+    "master-HB-sxs",
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Intune-LFC-Loc",
+  "PublishPlatform": "Unknown",
+  "RepoIds": null,
+  "TargetRepoPublishBranch": null,
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": true,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://ceapex.visualstudio.com/CEINTL/Content%20PM/_git/Intune-LFC-Loc:master",
+  "TranslationLocales": [
+    "en-US"
+  ],
+  "NoLocales": true
+}

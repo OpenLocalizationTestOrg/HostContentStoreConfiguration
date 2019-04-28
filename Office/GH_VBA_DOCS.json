@@ -1,0 +1,128 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/VBA-Docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/VBA-Docs.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/VBA-Docs.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/VBA-Docs.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/VBA-Docs.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/VBA-Docs.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/VBA-Docs.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/VBA-Docs.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/VBA-Docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_VBA_DOCS",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "057a0d58-668c-81fe-929f-94bb57113ef3",
+    "zh-CN": "1cf9aa02-f7e5-b968-1fd6-09b206590bee",
+    "zh-TW": "5b8d3927-af84-0394-f97a-1f5bf8b615ce",
+    "fr-FR": "cad2de53-2fc9-9b5c-8103-d9aa274527ed",
+    "de-DE": "2c1a5030-31b6-5b9d-fa4b-754bce36f8e4",
+    "ja-JP": "d420b9d0-535c-b613-4eb9-cd6b5ef36659",
+    "ru-RU": "256ff421-cb07-b73e-1417-869d14c3d6c2",
+    "es-ES": "504f16e8-d218-7708-66ac-67c2cd8bc35a"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/VBA-Docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

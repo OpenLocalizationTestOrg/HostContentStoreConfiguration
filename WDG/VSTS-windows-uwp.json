@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "Owner": "cpubwin",
+  "TargetRepoUris": {
+    "de-DE": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.de-de",
+    "es-ES": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.es-es",
+    "fr-FR": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.fr-fr",
+    "it-IT": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.it-it",
+    "ja-JP": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.ja-jp",
+    "ko-KR": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.ko-kr",
+    "pt-BR": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.pt-br",
+    "ru-RU": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.ru-ru",
+    "zh-CN": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.zh-cn",
+    "zh-TW": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp.zh-tw"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ndolci@ntdev.microsoft.com",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "VSTS-windows-uwp",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "b816faea-2550-8c1c-5774-133ad28264ea",
+    "es-ES": "73cab640-3d33-9593-9c0b-3c9a410caff3",
+    "fr-FR": "c70aac82-688a-6b50-eaf8-8f8f10e70f73",
+    "it-IT": "1bbf1418-2a3f-7a88-f52f-19772c918608",
+    "ja-JP": "6e177e8d-d63e-2c9e-ecde-8f3acfb2df15",
+    "ko-KR": "de48934a-bac4-a431-7bc6-21c512e60a2e",
+    "pt-BR": "6a29d110-4c8c-5152-fe01-d5e20bc95516",
+    "ru-RU": "5ecbd07d-992c-d2a4-6a7d-78f3508722b8",
+    "zh-CN": "5e3f3ea2-01d4-9de9-431a-72e245422422",
+    "zh-TW": "34c2ca23-10cf-9fb3-f077-287b2f45aa20"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*.md",
+    "**/*.yml"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "wdg2"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "2.0",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://cpubwin.visualstudio.com/windows-uwp/_git/windows-uwp:live",
+  "TranslationLocales": [
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pt-BR",
+    "ru-RU",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "NoLocales": false
+}

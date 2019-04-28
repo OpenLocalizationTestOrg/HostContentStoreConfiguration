@@ -1,0 +1,129 @@
+{
+  "SourceRepoUri": "https://github.com/azure/azure-docs-sdk-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-sdk-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ceic_admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-sdk-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "77350458-0870-9c7f-1120-ffa2ed359071",
+    "zh-CN": "1934690c-6f6c-ed38-277b-9df5c5f85d88",
+    "zh-TW": "d01190ec-2bbe-5d17-96d2-63127139e6d6",
+    "fr-FR": "31ae2546-9ade-8c83-589c-6cd8fdd9a777",
+    "de-DE": "3ab495f6-d6dd-830a-339f-267a1ae5dfed",
+    "it-IT": "ed84bd4e-a213-7e6b-f3e5-b739def9969f",
+    "ja-JP": "f55c770e-df73-bf0e-cec3-2e5eef5ecd2b",
+    "ko-KR": "5c673380-c0dd-82cd-e4e4-703b0c43e090",
+    "ru-RU": "7926401e-d67c-f134-5588-040f490eb841",
+    "es-ES": "15bbc998-bfea-2853-17e3-6f3def2b78e9"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json",
+    "**\\appveyor.yml",
+    "**\\package.json",
+    "**\\repo.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/azure/azure-docs-sdk-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

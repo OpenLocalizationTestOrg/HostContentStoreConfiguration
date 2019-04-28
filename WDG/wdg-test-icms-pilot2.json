@@ -1,0 +1,119 @@
+{
+  "SourceRepoUri": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "fr-FR",
+    "de-DE",
+    "es-ES"
+  ],
+  "Owner": "Aspnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_pt-BR",
+    "zh-CN": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_zh-CN",
+    "zh-TW": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_zh-TW",
+    "it-IT": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_it-IT",
+    "ja-JP": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_ja-JP",
+    "ko-KR": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_ko-KR",
+    "ru-RU": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_ru-RU",
+    "fr-FR": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_fr-FR",
+    "de-DE": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_de-DE",
+    "es-ES": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2_es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "olprod@microsoft.com",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "WDG",
+  "HostContentStore": "wdg-test-icms-pilot2",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "e36890ec-71f3-eeda-6f28-39b9f2bb0226",
+    "zh-CN": "bc90ac20-954b-06a3-0180-d0ad71e2bff5",
+    "zh-TW": "53f81da0-d995-dd1c-91b7-15ed6ca6c7b1",
+    "it-IT": "2a496927-b985-373f-ded0-68b79ff0e50e",
+    "ja-JP": "33de3e8f-504d-f1d7-daa0-f50bdc59fb64",
+    "ko-KR": "0d6cc05f-3550-fedd-4887-a57344ed59c2",
+    "ru-RU": "b42f25b2-7d72-6741-056d-dcad81e12681",
+    "fr-FR": "c547ddb2-ed4b-e82e-5c74-2b8428f67222",
+    "de-DE": "bcfe79a6-35b1-4acd-3214-c7467630e618",
+    "es-ES": "85d0c64c-d80a-c012-9a35-c9eb54822945"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://openloctest.visualstudio.com/oltest/_git/wdg-test-icms-pilot2:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "fr-FR",
+    "de-DE",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

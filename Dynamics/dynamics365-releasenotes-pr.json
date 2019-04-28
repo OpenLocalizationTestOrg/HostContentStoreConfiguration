@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.pt-br",
+    "da-DK": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.da-dk",
+    "nl-NL": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.nl-nl",
+    "fi-FI": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.fi-fi",
+    "fr-FR": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.ja-jp",
+    "nb-NO": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.nb-no",
+    "es-ES": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr.sv-se"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "DynamicsIPE-mdocs",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "olprod"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "dynamics365-releasenotes-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "73b9cb11-36fe-3068-f40f-ea06fc06bcff",
+    "da-DK": "05052e36-b59c-ee48-2f3d-4c9ba62294b6",
+    "nl-NL": "a3f356be-3062-6cac-8208-7cdb3b7e4d63",
+    "fi-FI": "c5103d67-43b0-e803-04ab-53e9bee09678",
+    "fr-FR": "49be8b38-93eb-5b0f-0fe4-204858aadc56",
+    "de-DE": "36b02725-0c67-f590-e10a-a37b66852ae3",
+    "it-IT": "75a87125-9b96-19ec-8d92-87309e95eeba",
+    "ja-JP": "66df1056-918b-dbf7-6d9f-b6c44b394f09",
+    "nb-NO": "0b5375a8-cff8-2df5-064c-af13e2c16b80",
+    "es-ES": "77ebeb4d-3965-e34b-9d4d-42ec5a4ddfaf",
+    "sv-SE": "cd76ca29-00c9-88c8-79df-608a04551c12"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "NoLocales": false
+}

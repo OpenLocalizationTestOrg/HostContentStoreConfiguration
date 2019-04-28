@@ -1,0 +1,137 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_O365ServiceDescriptions",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "0d690df3-4450-8c9f-b1e7-5391bfb7b385",
+    "zh-CN": "6f5acb06-5c8f-07cb-3f51-b89d40f4ab94",
+    "zh-TW": "a7b3c84f-e156-3366-c6c4-47378f9fe18d",
+    "fr-FR": "883f54b2-1b28-e327-bb86-2795b46a0866",
+    "de-DE": "17e28f3f-f405-2a44-0e61-4123dc63f6ee",
+    "it-IT": "cd0889e9-43e4-d4f2-ef10-2a99fe62ea85",
+    "ja-JP": "fc60a01c-cc7d-7cdf-1626-f57d94a4288e",
+    "ko-KR": "93edbae0-80bf-f2d1-2686-36e693c9b696",
+    "ru-RU": "628856f4-e451-0d14-8481-3b05c529da61",
+    "es-ES": "f0c090d4-a187-7756-a865-79ae1a988157"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

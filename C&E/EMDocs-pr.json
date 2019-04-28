@@ -1,0 +1,152 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/EMDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/EMDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/EMDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/EMDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/EMDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/EMDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/EMDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/EMDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/EMDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/EMDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/EMDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/EMDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/EMDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/EMDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/EMDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/EMDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/EMDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/EMDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "EMDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a25b90fc-d877-042f-5407-5998acf5261a",
+    "zh-CN": "1c60e1aa-46f8-59a7-6954-36b6d9793bff",
+    "zh-TW": "2e11dee3-fdea-0e60-d0b4-2cc1c69fa7ad",
+    "cs-CZ": "621c0f86-e94e-efe4-275d-bdf90eac6320",
+    "nl-NL": "f4a4860e-531b-c2e6-9a58-fc9d1e011c8e",
+    "fr-FR": "56d9024d-80cb-478e-127f-e2e4cfc0be0b",
+    "de-DE": "94e63460-26b7-7139-3360-a362e8fe2750",
+    "hu-HU": "7734847b-d3fb-0885-1632-6f76a1c3ddb5",
+    "it-IT": "e23cd14a-9fd9-99bf-87dc-a4b64eac44f8",
+    "ja-JP": "f8536ead-2ce5-3b50-0a7f-f7fdf5a96ee2",
+    "ko-KR": "25b8318c-b270-36f6-466f-db1f8451b485",
+    "pl-PL": "206464e5-8f28-cfc3-6f38-6b8f3d796a04",
+    "pt-PT": "c1b71932-b2e6-99de-a78f-08450e95d3f5",
+    "ru-RU": "f2a5b07a-dc38-2058-4e70-4fc0eb3d91ff",
+    "es-ES": "bb44e432-a4c7-f815-616a-1f8637cf4da1",
+    "sv-SE": "e2b8f8f3-747c-f394-3ab2-d3676da5f37e",
+    "tr-TR": "a888b85a-a9b9-c633-9097-087255538506"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/EMDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

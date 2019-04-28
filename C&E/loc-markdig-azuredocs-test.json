@@ -1,0 +1,111 @@
+{
+  "SourceRepoUri": "https://github.com/microsoftdocs/loc-markdig-azuredocs-test",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "de-DE",
+    "ja-JP"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "de-DE": "https://github.com/MicrosoftDocs/loc-markdig-azuredocs-test.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/loc-markdig-azuredocs-test.ja-JP"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC"
+    ],
+    "Read": [
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "loc-markdig-azuredocs-test",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "f9823176-8e5f-21e8-c363-b60846db0df9",
+    "ja-JP": "7f273ba6-8c85-053f-176d-38cfd55efd4b"
+  },
+  "TargetRepoPublishBranch": "master",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/microsoftdocs/loc-markdig-azuredocs-test:master",
+  "TranslationLocales": [
+    "de-DE",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_CustomLearning",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c4d8efad-a2ec-5839-23b0-848785614e35",
+    "zh-CN": "a8ee4646-edc4-9fc5-ab1f-9567e691df12",
+    "zh-TW": "e3021d30-4fca-53d0-209d-d9188e20de14",
+    "fr-FR": "54fcf703-a87b-1f34-588f-8f61c6d1e34a",
+    "de-DE": "25f55838-039b-669c-0424-df2d3bf525bf",
+    "it-IT": "a83020b4-089e-4fbc-f43f-8a694372c400",
+    "ja-JP": "b71d7118-6fe5-d0ce-dd8a-3f2e52849d66",
+    "ko-KR": "8bb7fc41-9fd0-a91f-17b9-82235a97a294",
+    "ru-RU": "897fcaf1-8af7-1209-5b10-89d2a036e163",
+    "es-ES": "ee2f9bf8-bcc7-6167-15be-81b83cffb65b"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

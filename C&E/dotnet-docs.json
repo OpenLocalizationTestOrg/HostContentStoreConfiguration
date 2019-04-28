@@ -1,0 +1,151 @@
+{
+  "SourceRepoUri": "https://github.com/dotnet/docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "Dotnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/dotnet/docs.pt-br",
+    "zh-CN": "https://github.com/dotnet/docs.zh-cn",
+    "zh-TW": "https://github.com/dotnet/docs.zh-tw",
+    "cs-CZ": "https://github.com/dotnet/docs.cs-cz",
+    "fr-FR": "https://github.com/dotnet/docs.fr-fr",
+    "de-DE": "https://github.com/dotnet/docs.de-de",
+    "it-IT": "https://github.com/dotnet/docs.it-it",
+    "ja-JP": "https://github.com/dotnet/docs.ja-jp",
+    "ko-KR": "https://github.com/dotnet/docs.ko-kr",
+    "pl-PL": "https://github.com/dotnet/docs.pl-pl",
+    "ru-RU": "https://github.com/dotnet/docs.ru-ru",
+    "es-ES": "https://github.com/dotnet/docs.es-es",
+    "tr-TR": "https://github.com/dotnet/docs.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "dotnet-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "b8b4e7e1-10d5-1ca9-eaef-eeb830e2312d",
+    "zh-CN": "503d5969-5221-e462-4715-7f911c8e603a",
+    "zh-TW": "ae81b966-19ba-0dc6-ce1c-ced5e89ee923",
+    "cs-CZ": "1dab5b2d-cbc6-6312-2cfc-09f5fdac0b78",
+    "fr-FR": "e8a65473-c606-3e7d-2249-682dd4c4da46",
+    "de-DE": "5706be96-cb36-77bb-92cc-86daea16cf88",
+    "it-IT": "33f00e7a-62b7-6e8b-9496-867126b0e827",
+    "ja-JP": "717bfbe8-2948-11bd-fce9-ff715c4e9a59",
+    "ko-KR": "716353f0-9988-e4f4-62fb-8a70ea7cfa15",
+    "pl-PL": "0e608cc8-2b79-1716-01d9-32e088ae85e8",
+    "ru-RU": "0def0b02-9e70-9a3f-539b-c2a9f67cb533",
+    "es-ES": "bce13c0b-1752-b348-03e5-650f978640f6",
+    "tr-TR": "504e16ca-4240-07fc-3e06-d8d2f03b7f3d"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\_zip\\*",
+    "**\\_zip\\**\\*"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/dotnet/docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

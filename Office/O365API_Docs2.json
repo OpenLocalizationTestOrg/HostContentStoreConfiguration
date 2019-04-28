@@ -1,0 +1,121 @@
+{
+  "SourceRepoUri": "https://docs-archive.visualstudio.com/DefaultCollection/docs-archive-project/_git/office-dev-O365API",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "docs-archive",
+  "TargetRepoUris": {
+    "pt-BR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.pt-BR",
+    "zh-CN": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.zh-CN",
+    "fr-FR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.fr-FR",
+    "de-DE": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.de-DE",
+    "ja-JP": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.ja-JP",
+    "ru-RU": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.ru-RU",
+    "es-ES": "https://docs-archive.visualstudio.com/docs-archive-project/_git/office-dev-O365API.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "Soran-M",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "O365API_Docs2",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "es-ES": "0d5d7f4b-9d81-dd95-8656-9823cab80983"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://docs-archive.visualstudio.com/DefaultCollection/docs-archive-project/_git/office-dev-O365API:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

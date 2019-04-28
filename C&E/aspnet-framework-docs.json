@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/aspnet/AspNetDocs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "Aspnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/aspnet/AspNetDocs.pt-br",
+    "zh-CN": "https://github.com/aspnet/AspNetDocs.zh-cn",
+    "zh-TW": "https://github.com/aspnet/AspNetDocs.zh-tw",
+    "cs-CZ": "https://github.com/aspnet/AspNetDocs.cs-cz",
+    "fr-FR": "https://github.com/aspnet/AspNetDocs.fr-fr",
+    "de-DE": "https://github.com/aspnet/AspNetDocs.de-de",
+    "it-IT": "https://github.com/aspnet/AspNetDocs.it-it",
+    "ja-JP": "https://github.com/aspnet/AspNetDocs.ja-jp",
+    "ko-KR": "https://github.com/aspnet/AspNetDocs.ko-kr",
+    "pl-PL": "https://github.com/aspnet/AspNetDocs.pl-pl",
+    "ru-RU": "https://github.com/aspnet/AspNetDocs.ru-ru",
+    "es-ES": "https://github.com/aspnet/AspNetDocs.es-es",
+    "tr-TR": "https://github.com/aspnet/AspNetDocs.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "aspnet-framework-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "00623ef0-2e6e-cdf3-a37d-ed6c2c2f859d",
+    "zh-CN": "cb993019-35b8-75c0-f42a-b1f14ed5ba2b",
+    "zh-TW": "21614c47-6332-adb1-4263-1291d383baf3",
+    "cs-CZ": "d916223c-7c8f-6238-1eb7-cb6d5576a1c3",
+    "fr-FR": "5472ca29-c51d-6565-23be-e684f254a17f",
+    "de-DE": "9d12fe5a-25db-e966-ca0e-805caf143e1e",
+    "it-IT": "1c74497c-9855-5233-0975-06ef2350ac0e",
+    "ja-JP": "a02d1aba-5e2a-8325-35df-652bf0b4a84c",
+    "ko-KR": "bc2ad3a6-74f0-8adc-01d5-0cfb86e52634",
+    "pl-PL": "34acd975-451b-b387-b787-14b5db3140e2",
+    "ru-RU": "594ac119-321f-f6d6-f130-23b2e85fd9db",
+    "es-ES": "4d670585-176f-a47e-5f76-d734c84e5370",
+    "tr-TR": "b550f59f-d738-cd6d-922e-7ad56d604bc9"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/aspnet/AspNetDocs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,151 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "EnableXliffTransformTest2",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "b98b3043-45d7-657e-3f9e-aeeea8673e1d",
+    "zh-CN": "9ac98ac4-7964-92ea-47f9-ecf1745dc5ed",
+    "zh-TW": "95ce1a91-e964-37c3-3910-518cb2362ac6",
+    "fr-FR": "5ade81db-5153-da7f-036c-f7ba00af4efd",
+    "de-DE": "2bbe9353-9ab4-2c5e-17ac-24a7ea3c806b",
+    "it-IT": "35eb88de-59a5-ef33-b4b0-7e03d8224d1d",
+    "ja-JP": "faff29d1-da11-ae16-a44f-48e17331b5c5",
+    "ko-KR": "1786069a-409d-831e-d940-f86062589bce",
+    "ru-RU": "aac99ae4-92ab-04fb-c8b7-78d1337f000f",
+    "es-ES": "8bcf55b1-2e58-aa7b-091f-8d7271d25127"
+  },
+  "TargetRepoPublishBranch": "master",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 1800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".yml",
+    ".xml",
+    ".json",
+    ".workbook",
+    ".cohort",
+    ".html"
+  ],
+  "Id": "https://github.com/MicrosoftDocs/EnableXliffTranformGitHubProd:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

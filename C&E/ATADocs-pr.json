@@ -1,0 +1,152 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/ATADocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/ATADocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/ATADocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/ATADocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/ATADocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/ATADocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/ATADocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/ATADocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/ATADocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/ATADocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/ATADocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/ATADocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/ATADocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/ATADocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/ATADocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/ATADocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/ATADocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/ATADocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "ATADocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "327bde33-dfbf-7f6f-a348-c9f2146c4024",
+    "zh-CN": "f9ef624b-0e91-5ff8-7027-58f8d3e6e991",
+    "zh-TW": "c83f0200-cac5-6ef9-5e03-78f6d40e03bd",
+    "cs-CZ": "5e52ddbe-0031-12e7-4d5e-19697cc4760a",
+    "nl-NL": "ce3f3346-25f9-4f1d-a554-fb5725f93cc8",
+    "fr-FR": "089c1c63-15ae-e62c-ff77-f3924bbf07c2",
+    "de-DE": "9bfb4c70-27f2-7fe6-e63d-a4b11fb6baaa",
+    "hu-HU": "b08c2d8f-9ad6-af05-b581-2a0ee3e3c131",
+    "it-IT": "ea26bc89-321d-9c8a-89f4-757a30c4844f",
+    "ja-JP": "2fc7ba3f-6ccd-2a2f-8c8d-f0d965d1247d",
+    "ko-KR": "99dc1d33-e8cd-217a-8c0c-e10a7174750f",
+    "pl-PL": "942421e7-5681-ceb6-ec9b-6de87f0a0e6e",
+    "pt-PT": "3408bf9f-ba9a-d2f7-9b5b-04b9ccffdc8c",
+    "ru-RU": "fd80f285-b219-85c0-3b3b-d1f0a3965300",
+    "es-ES": "9fd76bec-2a09-ebf6-dd9d-a9218ef5a5e2",
+    "sv-SE": "839e2a78-9dc0-1ddc-b230-4da0c49ea1d4",
+    "tr-TR": "d188a24a-8d51-31a7-9a5e-1b671e3a67f3"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/ATADocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

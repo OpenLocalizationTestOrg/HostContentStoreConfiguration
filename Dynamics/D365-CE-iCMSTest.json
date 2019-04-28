@@ -1,0 +1,107 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/D365-CE-iCMSTest",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "de-DE",
+    "id-ID",
+    "vi-VN"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "de-DE": "https://github.com/MicrosoftDocs/D365-CE-iCMSTest.de-DE",
+    "id-ID": "https://github.com/MicrosoftDocs/D365-CE-iCMSTest.id-ID",
+    "vi-VN": "https://github.com/MicrosoftDocs/D365-CE-iCMSTest.vi-VN"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "D365-CE-iCMSTest",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "de-DE": "c253ef04-4002-61f9-964b-569872630221",
+    "id-ID": "7a2bb28b-2ab0-353c-a692-5583fe489924",
+    "vi-VN": "136229fa-da1c-697a-e6ff-c1b47475a79b"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/D365-CE-iCMSTest:master",
+  "TranslationLocales": [
+    "de-DE",
+    "id-ID",
+    "vi-VN"
+  ],
+  "NoLocales": false
+}

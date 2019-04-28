@@ -1,0 +1,175 @@
+{
+  "SourceRepoUri": "https://github.com/microsoftdocs/services-hub-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "bg-BG",
+    "zh-CN",
+    "zh-TW",
+    "hr-HR",
+    "fr-FR",
+    "de-DE",
+    "id-ID",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "lv-LV",
+    "ro-RO",
+    "ru-RU",
+    "sr-Latn-RS",
+    "sl-SI",
+    "es-ES",
+    "vi-VN"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/services-hub-docs.pt-br",
+    "bg-BG": "https://github.com/MicrosoftDocs/services-hub-docs.bg-bg",
+    "zh-CN": "https://github.com/MicrosoftDocs/services-hub-docs.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/services-hub-docs.zh-tw",
+    "hr-HR": "https://github.com/MicrosoftDocs/services-hub-docs.hr-hr",
+    "fr-FR": "https://github.com/MicrosoftDocs/services-hub-docs.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/services-hub-docs.de-de",
+    "id-ID": "https://github.com/MicrosoftDocs/services-hub-docs.id-id",
+    "it-IT": "https://github.com/MicrosoftDocs/services-hub-docs.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/services-hub-docs.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/services-hub-docs.ko-kr",
+    "lv-LV": "https://github.com/MicrosoftDocs/services-hub-docs.lv-lv",
+    "ro-RO": "https://github.com/MicrosoftDocs/services-hub-docs.ro-ro",
+    "ru-RU": "https://github.com/MicrosoftDocs/services-hub-docs.ru-ru",
+    "sr-Latn-RS": "https://github.com/MicrosoftDocs/services-hub-docs.sr-latn-rs",
+    "sl-SI": "https://github.com/MicrosoftDocs/services-hub-docs.sl-si",
+    "es-ES": "https://github.com/MicrosoftDocs/services-hub-docs.es-es",
+    "vi-VN": "https://github.com/MicrosoftDocs/services-hub-docs.vi-vn"
+  },
+  "RenamePatternKey": "",
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CSSLoc_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CSSLoc_Admin"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": "",
+  "HandbackRepoUri": "",
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "CSS",
+  "HostContentStore": "SHD_CSS",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "fc351e8d-d093-03f9-f9cc-6c261b4f08ea",
+    "bg-BG": "a3789227-caa0-6a73-2707-fd93e10df8a0",
+    "zh-CN": "4998c230-b09c-f6c8-e507-4975ff9f24a9",
+    "zh-TW": "97889a8f-5fee-0bfa-7739-87d4092de63f",
+    "hr-HR": "e4f54020-528c-ee33-f1df-86cf873c3c79",
+    "fr-FR": "6fa340a5-3643-8d63-1834-d3de0c8b6b26",
+    "de-DE": "e602cd93-430a-92f9-8bd9-6820aafa11f0",
+    "id-ID": "9a2f43d6-94a3-1571-9072-b8ea1882d803",
+    "it-IT": "a91bcb2e-1351-75e6-ec1a-fde2abd2d302",
+    "ja-JP": "1c465185-7f7b-a533-553b-3fe4c9863e7b",
+    "ko-KR": "4d8b1d8d-8163-70d9-20c6-4eaf9b2b4faf",
+    "lv-LV": "e476c0f7-ee84-ca1a-540b-e2ec03601c4f",
+    "ro-RO": "10832374-dc57-597b-fc30-e3af3b1f5026",
+    "ru-RU": "53b97c3d-132b-3683-f8da-642b4cc11a5d",
+    "sr-Latn-RS": "59a90aa3-6de1-6c8b-e3cf-7d4f4820b702",
+    "sl-SI": "e1a4ac20-8def-bc29-4976-6a48fe4f512b",
+    "es-ES": "8da45223-7a0c-a3ed-5fbb-29f67e24edcf",
+    "vi-VN": "11852eef-560d-2055-3571-471aca262b60"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "css",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md",
+    ".yml"
+  ],
+  "Id": "https://github.com/microsoftdocs/services-hub-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "bg-BG",
+    "zh-CN",
+    "zh-TW",
+    "hr-HR",
+    "fr-FR",
+    "de-DE",
+    "id-ID",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "lv-LV",
+    "ro-RO",
+    "ru-RU",
+    "sr-Latn-RS",
+    "sl-SI",
+    "es-ES",
+    "vi-VN"
+  ],
+  "NoLocales": false
+}

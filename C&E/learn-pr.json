@@ -1,0 +1,174 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "loc-live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/learn-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/learn-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/learn-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/learn-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/learn-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/learn-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/learn-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/learn-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "learn-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "66cf9f7f-cd5f-8542-ae26-2ba5c2b052df",
+    "zh-CN": "c2e9fc6e-c7f7-0f1a-a6db-b69117c51f6c",
+    "zh-TW": "841c257b-8894-fb25-0ec7-c9d0485e2169",
+    "cs-CZ": "1a4e2765-a183-331a-0353-a3fb0d4b6e73",
+    "nl-NL": "b5407e2c-9ffc-230a-43a2-2aa74301af2f",
+    "fr-FR": "f7f9cd29-62fd-39fd-5df6-bcdcb09ed259",
+    "de-DE": "a2c10a6a-3811-502e-8fdc-99d974edbddf",
+    "hu-HU": "28b1d563-bb32-18a5-3232-08e2b805ae41",
+    "it-IT": "0b33317f-9726-0fe0-eb8c-16391b47fb7e",
+    "ja-JP": "37178915-375e-1855-16a1-2542b134a0d5",
+    "ko-KR": "39cee4d5-ca71-5396-de6d-63dce2028a71",
+    "pl-PL": "9e73fb00-4b59-0456-99c2-533208d42595",
+    "pt-PT": "ed2cc251-50c5-f6a6-df19-453156b6a433",
+    "ru-RU": "c7b0aec5-5c1a-23b0-9c52-5d59d6b2259d",
+    "es-ES": "fe803a6d-d060-f7c0-59c8-39ad7d8ca9eb",
+    "sv-SE": "4519ee0e-5d71-97d7-14ed-298dff2a9ebf",
+    "tr-TR": "a8686ee1-9651-44e0-1214-d556745f0d5f"
+  },
+  "TargetRepoPublishBranch": "master",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 0,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": true,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-pr:loc-live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,111 @@
+{
+  "SourceRepoUri": "https://github.com/OpenLocalizationTestOrg/PrivateRepo",
+  "SourceRepoLocale": "en-US",
+  "Branch": "Live",
+  "Locales": [
+    "zh-CN",
+    "cs-CZ"
+  ],
+  "Owner": "OpenLocalizationTestOrg",
+  "TargetRepoUris": {
+    "zh-CN": "https://github.com/OpenLocalizationTestOrg/PrivateRepo.zh-CN",
+    "cs-CZ": "https://github.com/OpenLocalizationTestOrg/PrivateRepo.cs-CZ"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "Live",
+  "TargetRepoBilingualBranch": "Live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "Live",
+    "Live-sxs",
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Privaterepo11",
+  "PublishPlatform": "OPS",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "Live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/OpenLocalizationTestOrg/PrivateRepo:Live",
+  "TranslationLocales": [
+    "zh-CN",
+    "cs-CZ"
+  ],
+  "NoLocales": false
+}

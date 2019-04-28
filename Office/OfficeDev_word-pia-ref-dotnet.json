@@ -1,0 +1,126 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_word-pia-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a2826233-c5dc-9ff6-e058-c637365c9ccf",
+    "zh-CN": "ab7822f4-ada5-2277-4c12-4f23f052f5c3",
+    "fr-FR": "4da5e50f-edfd-021c-33aa-858326899ca1",
+    "de-DE": "6f8850d6-70ef-d67e-3dae-ff2fd0fbc41a",
+    "ja-JP": "5d124fd9-57d0-15d6-b20e-3733f79fe9f3",
+    "ru-RU": "b5c7d509-ee2e-a096-2334-a9bd509071be",
+    "es-ES": "e96e348c-8ae0-2de5-f5d0-1db34566f436"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md",
+    ".yml",
+    ".xml"
+  ],
+  "Id": "https://github.com/MicrosoftDocs/office-developer-word-pia-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

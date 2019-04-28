@@ -1,0 +1,156 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/xamarin-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/xamarin-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/xamarin-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/xamarin-docs-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/xamarin-docs-pr.cs-CZ",
+    "fr-FR": "https://github.com/MicrosoftDocs/xamarin-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/xamarin-docs-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/xamarin-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/xamarin-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/xamarin-docs-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/xamarin-docs-pr.pl-PL",
+    "ru-RU": "https://github.com/MicrosoftDocs/xamarin-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/xamarin-docs-pr.es-ES",
+    "tr-TR": "https://github.com/MicrosoftDocs/xamarin-docs-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "xamarin-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "fc87e88f-ff72-7d78-51bc-e7842e1319bd",
+    "zh-CN": "2d203e2b-6517-8355-e390-f5def8797467",
+    "zh-TW": "4cf1f731-3a21-f73a-0101-5bc583082865",
+    "cs-CZ": "fd64c7a0-6dab-407c-83d1-98b6103b4af9",
+    "fr-FR": "2a4266b2-5a9b-5a09-acf9-547651f3c815",
+    "de-DE": "e1fff0b8-40cf-bf6e-2e14-4427afff2fcc",
+    "it-IT": "1e1f01a3-c80c-f536-1bde-33a76a2f40f6",
+    "ja-JP": "a9c038dc-4d9c-200b-3995-e22c9ad8077b",
+    "ko-KR": "6d6b69f0-0658-7cad-08fa-32cb30435827",
+    "pl-PL": "87268ced-e499-e072-8973-d95b1cc59c08",
+    "ru-RU": "b3b96903-6f91-1f8f-42f1-191700935a7b",
+    "es-ES": "785154dd-c5fb-5a97-6167-033ff64aba20",
+    "tr-TR": "6ff165a7-fa89-7924-2d01-917d4fe8b4e9"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/xamarin-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

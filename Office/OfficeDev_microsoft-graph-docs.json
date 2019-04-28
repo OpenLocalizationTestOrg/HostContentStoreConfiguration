@@ -1,0 +1,125 @@
+{
+  "SourceRepoUri": "https://github.com/microsoftgraph/microsoft-graph-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftGraph",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR",
+    "zh-CN": "https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN",
+    "fr-FR": "https://github.com/microsoftgraph/microsoft-graph-docs.fr-FR",
+    "de-DE": "https://github.com/microsoftgraph/microsoft-graph-docs.de-DE",
+    "ja-JP": "https://github.com/microsoftgraph/microsoft-graph-docs.ja-JP",
+    "ru-RU": "https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU",
+    "es-ES": "https://github.com/microsoftgraph/microsoft-graph-docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ops-and-localization-admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_microsoft-graph-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "09595770-21e6-dffb-86a8-e7fdba895c3e",
+    "zh-CN": "50bdf68c-ba11-8701-2c52-0e250e4e8f8a",
+    "fr-FR": "0ffed1bf-954f-297c-b3c2-72ecfd12077f",
+    "de-DE": "717cf0d3-cc2b-4ae1-2fc5-1d2791bc5c24",
+    "ja-JP": "62c46097-fac9-204c-9559-18abb4341556",
+    "ru-RU": "cb0367ad-ea61-afda-51de-81f4c0d7f0db",
+    "es-ES": "12d37cba-ca73-7c6d-ad17-b5671e1ebad3"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/microsoftgraph/microsoft-graph-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

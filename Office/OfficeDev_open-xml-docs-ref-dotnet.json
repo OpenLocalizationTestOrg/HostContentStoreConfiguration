@@ -1,0 +1,130 @@
+{
+  "SourceRepoUri": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "OfficeDev",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "olprod",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_open-xml-docs-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "61e618ae-a4cb-2dce-77fb-bd4e798af6dd",
+    "zh-CN": "618c22e7-9f51-c65a-9251-a9e759ea6a6f",
+    "fr-FR": "8ae0ab78-077b-2d0d-7d64-56c59d732d8f",
+    "de-DE": "18141dff-b984-056e-7b03-dbc675e89a14",
+    "ja-JP": "c5b68620-e0bb-8564-4a3f-c8c14ff9bcb4",
+    "ru-RU": "d8974946-7f5f-b7ce-b421-0c8f9cd96c15",
+    "es-ES": "9a5bab03-296d-890b-fb74-dea72ca5d573"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": [
+    ".md",
+    ".yml",
+    ".xml"
+  ],
+  "Id": "https://github.com/OfficeDev/open-xml-docs-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

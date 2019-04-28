@@ -1,0 +1,135 @@
+{
+  "SourceRepoUri": "https://devdiv.visualstudio.com/DevDiv/_git/RECON",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "devdiv",
+  "TargetRepoUris": {
+    "pt-BR": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.pt-br",
+    "zh-CN": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.zh-cn",
+    "zh-TW": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.zh-tw",
+    "cs-CZ": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.cs-cz",
+    "fr-FR": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.fr-fr",
+    "de-DE": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.de-de",
+    "it-IT": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.it-it",
+    "ja-JP": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.ja-jp",
+    "ko-KR": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.ko-kr",
+    "pl-PL": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.pl-pl",
+    "ru-RU": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.ru-ru",
+    "es-ES": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.es-es",
+    "tr-TR": "https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/RECON.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "VS_RECON",
+  "PublishPlatform": "OPS",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 3600,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://devdiv.visualstudio.com/DevDiv/_git/RECON:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

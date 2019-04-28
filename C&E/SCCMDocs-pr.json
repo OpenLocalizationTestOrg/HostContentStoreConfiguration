@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/SCCMDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/SCCMDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/SCCMDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/SCCMDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/SCCMDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/SCCMDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/SCCMDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/SCCMDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/SCCMDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/SCCMDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/SCCMDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/SCCMDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/SCCMDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/SCCMDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/SCCMDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/SCCMDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/SCCMDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/SCCMDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "SCCMDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "4db14ae8-a641-2b6c-36b2-69189f6c904c",
+    "zh-CN": "8bc33296-0be8-57c8-9cc2-732d7f622453",
+    "zh-TW": "713868d0-ec3d-8744-008d-3eeb585bde37",
+    "cs-CZ": "8076c569-f64a-5498-24dd-8d1a1b570e07",
+    "nl-NL": "cd79c42b-7090-2e38-a800-020cecd7ec38",
+    "fr-FR": "8d600ce7-07fe-84a6-fee4-180640557f7e",
+    "de-DE": "31d4351f-0fff-19a9-d2d2-7bb4c90d4829",
+    "hu-HU": "c983e658-8141-4ad8-847e-757688168bfe",
+    "it-IT": "01081c4b-c2af-415c-7308-6b31cae20248",
+    "ja-JP": "6f92f1ff-3ccc-0ab5-507c-6649ae0f4c50",
+    "ko-KR": "a3ce8cdc-7ea0-b239-09d6-f73e253767e2",
+    "pl-PL": "ae93616c-a7a0-e7d2-0966-0e50ffd573cf",
+    "pt-PT": "5e7d2138-a6ab-1dad-bc67-856721af1487",
+    "ru-RU": "dd625700-865d-1bb7-048e-c6a65a24e310",
+    "es-ES": "d13eab72-6447-cdd6-7cd1-37c363ffe12a",
+    "sv-SE": "7cbc9f71-96ea-9b0e-87f6-a061aba91489",
+    "tr-TR": "1f4ef1ac-72f4-3c2e-4594-1e0279771a36"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/SCCMDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

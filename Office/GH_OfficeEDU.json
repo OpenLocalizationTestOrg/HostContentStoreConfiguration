@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeEDU-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeEDU-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeEDU-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeEDU-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeEDU-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeEDU-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeEDU-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeEDU-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeEDU-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeEDU-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeEDU-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_OfficeEDU",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "069cf5a0-502c-15d7-151e-7bc5bccb1ede",
+    "zh-CN": "94247522-c8a8-2c36-5d54-8ca2135b8618",
+    "zh-TW": "6ecbce48-d39f-08ff-af58-5bb9042c0f27",
+    "fr-FR": "8f5b5fce-6762-b4f3-807f-c3c550dbfdb3",
+    "de-DE": "03b08461-51c8-bc6e-740f-6f7e1e0df9d9",
+    "it-IT": "f8285e28-7472-dfc5-8095-4ebd8be7762e",
+    "ja-JP": "c30b62a4-d4a6-f77b-fa46-0c47a123fb1e",
+    "ko-KR": "c01654a2-5e52-cfec-1cfa-c4f8330e2920",
+    "ru-RU": "d2e1c899-722a-ff52-8f49-e9872bf6442c",
+    "es-ES": "237b4f2c-3ee9-157a-05d5-a962ecfe9308"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeEDU-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

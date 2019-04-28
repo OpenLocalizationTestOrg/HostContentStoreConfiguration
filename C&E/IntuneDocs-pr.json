@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/IntuneDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/IntuneDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/IntuneDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/IntuneDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/IntuneDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/IntuneDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/IntuneDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/IntuneDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/IntuneDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/IntuneDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/IntuneDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/IntuneDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/IntuneDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/IntuneDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/IntuneDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/IntuneDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/IntuneDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/IntuneDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "IntuneDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "f71ebcd4-d182-2e01-216c-2b5337ce4d9a",
+    "zh-CN": "36ce79ec-2b5d-5458-b747-e884f6776566",
+    "zh-TW": "0e13f02c-3818-24e8-e2bb-63e1f82d522e",
+    "cs-CZ": "90a4d44f-407e-f2e6-4c6a-30e4f5de86e0",
+    "nl-NL": "635355e2-763e-e2a6-ad72-1337c6d74514",
+    "fr-FR": "b1b40276-6ce5-5018-921f-417503f37106",
+    "de-DE": "b134423d-3ac4-46fc-405c-a33fe5aa1c2c",
+    "hu-HU": "55ebc17f-842e-2344-6b60-b17811837616",
+    "it-IT": "de063dc0-bfba-1100-51e0-25e2dcddc03a",
+    "ja-JP": "b63cdc13-abae-7669-d29b-6b68a12da343",
+    "ko-KR": "58129903-82f5-c673-3e0e-7fe5c6a0c038",
+    "pl-PL": "e352f02f-5da1-1bb4-08c4-8dce247dfff7",
+    "pt-PT": "17827d3f-1fc5-37e2-35ea-d3293061777c",
+    "ru-RU": "770f0d21-2ce2-962d-bf29-fd3bea4ce9cb",
+    "es-ES": "b33a9f5a-2845-bc54-e6ce-3671a04e6eb7",
+    "sv-SE": "eee95ae3-59f2-421f-c9b0-81bc3fc2be4b",
+    "tr-TR": "aa6f576a-f1c5-f5d6-77c1-dc45b17b441e"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/IntuneDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

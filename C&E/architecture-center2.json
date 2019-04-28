@@ -1,0 +1,169 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/architecture-center",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/architecture-center.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/architecture-center.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/architecture-center.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/architecture-center.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/architecture-center.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/architecture-center.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/architecture-center.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/architecture-center.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/architecture-center.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/architecture-center.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/architecture-center.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/architecture-center.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/architecture-center.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/architecture-center.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/architecture-center.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/architecture-center.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/architecture-center.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "architecture-center2",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "5725e00d-f1a2-de74-1e7f-697ebe4fd961",
+    "zh-CN": "dec1428c-28e3-f4a3-6e64-76ca64b7c987",
+    "zh-TW": "32e74017-00e5-07fc-bf8c-b753a5a5cd3b",
+    "cs-CZ": "773f4318-a54e-b06e-26f2-c0b4cce01b03",
+    "nl-NL": "1ca69e96-545d-8334-5265-92a162a2736e",
+    "fr-FR": "3ad9045c-6975-e857-4b9c-87d9110a4c69",
+    "de-DE": "8a055924-f230-b812-ef67-f2d04e94d988",
+    "hu-HU": "b68f2275-65c8-2ad0-6a27-18625f1e531c",
+    "it-IT": "a0d59534-1601-9a12-ba7e-6a7716d5e8d9",
+    "ja-JP": "1aa92cf4-8933-a2c6-0d4f-c5aa6d87d10e",
+    "ko-KR": "5e15b878-7526-b7aa-17c1-13040c389e96",
+    "pl-PL": "0f7bc9eb-e192-a52a-1f0f-9f3dbc189f8a",
+    "pt-PT": "461bfb6a-6c68-9152-f954-dc713392f13a",
+    "ru-RU": "9b58fa3d-f993-3d03-4858-91b307bf767f",
+    "es-ES": "b5759b9a-7da2-b1ee-3b9b-e642ec336121",
+    "sv-SE": "c9110537-8285-7bf4-b79a-0ba7c52aff32",
+    "tr-TR": "ab6fefd9-e77b-d35d-8a0a-198184332096"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/architecture-center:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/IntuneEDU-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/IntuneEDU-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/IntuneEDU-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/IntuneEDU-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/IntuneEDU-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/IntuneEDU-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/IntuneEDU-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/IntuneEDU-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/IntuneEDU-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/IntuneEDU-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/IntuneEDU-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/IntuneEDU-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/IntuneEDU-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/IntuneEDU-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/IntuneEDU-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/IntuneEDU-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/IntuneEDU-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/IntuneEDU-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "IntuneEDU-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "35333b9f-ca5e-6c64-587e-fab75c6ae208",
+    "zh-CN": "83c4cc65-9ba9-c229-9724-f49e306da8ba",
+    "zh-TW": "05b0ce1a-9dc0-4790-df1b-fb6792adffed",
+    "cs-CZ": "eb59496a-2703-027e-9d61-6a7e677ec018",
+    "nl-NL": "0c414511-9b4f-9994-4280-b1a23b224060",
+    "fr-FR": "b525aa59-3245-a522-d057-f87aef56ea78",
+    "de-DE": "c8f70fa9-9bd1-53ab-d13d-01b10cf2c7c9",
+    "hu-HU": "bc697201-e69c-e8f2-338d-26c05dfb92a8",
+    "it-IT": "397acfee-8ed0-0b67-6c5a-de2dc2bf7b89",
+    "ja-JP": "caf51f9f-71e4-614a-fff9-c8fda318e2ad",
+    "ko-KR": "e20fc281-057b-a93d-5616-5347e8b0934e",
+    "pl-PL": "cfa4e264-4cfb-e851-ad28-ef81eac5e838",
+    "pt-PT": "5b8767f3-315d-f99a-3386-d1c8f30425d1",
+    "ru-RU": "3bbe2b95-d529-1733-b0c2-9ddeee930691",
+    "es-ES": "0f46d8f9-4e11-dd28-a69c-f15cb5ee5f67",
+    "sv-SE": "d517ccac-5565-1f2b-ffff-1813370363af",
+    "tr-TR": "3a8b4288-2fc7-97fe-3133-044a3393fb8c"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/IntuneEDU-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

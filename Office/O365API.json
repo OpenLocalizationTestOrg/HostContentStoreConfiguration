@@ -1,0 +1,112 @@
+{
+  "SourceRepoUri": "https://mseng.visualstudio.com/Documentation/_git/O365API",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "ja-JP",
+    "es-ES",
+    "pt-BR",
+    "fr-FR",
+    "de-DE",
+    "ru-RU",
+    "zh-CN"
+  ],
+  "Owner": "Microsoft",
+  "TargetRepoUris": {
+    "ja-JP": "https://mseng.visualstudio.com/Documentation/_git/O365API_ja-jp",
+    "es-ES": "https://mseng.visualstudio.com/Documentation/_git/O365API_es-ES",
+    "pt-BR": "https://mseng.visualstudio.com/Documentation/_git/O365API_pt-BR",
+    "fr-FR": "https://mseng.visualstudio.com/Documentation/_git/O365API_fr-FR",
+    "de-DE": "https://mseng.visualstudio.com/Documentation/_git/O365API_de-DE",
+    "ru-RU": "https://mseng.visualstudio.com/Documentation/_git/O365API_ru-RU",
+    "zh-CN": "https://mseng.visualstudio.com/Documentation/_git/O365API_zh-CN"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "soranm@microsoft.com",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "O365API",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "ja-JP": "33d200c7-7724-0f15-6f00-a9b4296a9115",
+    "es-ES": "3e808d58-c2b5-c84d-a81a-a3b75e0f1994",
+    "pt-BR": "6b87ba61-a5ce-b196-bb5a-16463c67f11c",
+    "fr-FR": "1ad7d517-d471-f3a5-25f6-78c6c212306a",
+    "de-DE": "3896ab4a-517b-30b8-4b5a-afeb054dfe2d",
+    "ru-RU": "659cee6c-93ce-14a9-293a-20b24ea41ac7",
+    "zh-CN": "d01e5cf1-7d14-00c7-455e-3a3920056d40"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 0,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": true,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "office"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://mseng.visualstudio.com/Documentation/_git/O365API:live",
+  "TranslationLocales": [
+    "ja-JP",
+    "es-ES",
+    "pt-BR",
+    "fr-FR",
+    "de-DE",
+    "ru-RU",
+    "zh-CN"
+  ],
+  "NoLocales": false
+}

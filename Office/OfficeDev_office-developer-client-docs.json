@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/office-developer-client-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/office-developer-client-docs.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/office-developer-client-docs.zh-CN",
+    "fr-FR": "https://github.com/MicrosoftDocs/office-developer-client-docs.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/office-developer-client-docs.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/office-developer-client-docs.ja-JP",
+    "ru-RU": "https://github.com/MicrosoftDocs/office-developer-client-docs.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/office-developer-client-docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_office-developer-client-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "e0139dc0-c413-1db5-832d-c4fbcc8994d8",
+    "zh-CN": "94ce19c5-df52-a814-5152-b922c6117e88",
+    "fr-FR": "4082d506-7310-512e-7e6b-862c11ea1d8d",
+    "de-DE": "e118ddac-a36d-3e12-80ad-7618ecf69993",
+    "ja-JP": "331c1cc6-81e0-48fe-b130-4c9f4609d659",
+    "ru-RU": "8ae28c34-ddf9-1b14-bcd7-0ea64b248310",
+    "es-ES": "b9b28c93-0cdc-b3a5-9710-81dcd97e28e4"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/office-developer-client-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

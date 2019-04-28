@@ -1,0 +1,170 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/windowsserverdocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/windowsserverdocs-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "windowsserverdocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c10bb6e9-f32e-765b-0876-d0ee516a960d",
+    "zh-CN": "81dc0b7b-2235-40c2-f8a8-13fff2a486c4",
+    "zh-TW": "1a15e045-985c-cb30-dc8e-9bea5245dc99",
+    "cs-CZ": "013f0b30-7b3f-067c-9eeb-c94f968b9e73",
+    "nl-NL": "ad513fe9-2172-613b-2240-3241b8b3de97",
+    "fr-FR": "8fe73f71-1c9a-cb88-d14d-b6114316150a",
+    "de-DE": "f9d64e87-1905-e106-1567-89d6edfea949",
+    "hu-HU": "d701932f-b1dd-548f-8ae6-d3d064af3063",
+    "it-IT": "1128c1ee-86d6-361b-43f7-2f1abb359267",
+    "ja-JP": "9cf0082b-5b3a-be11-ee95-d2dcf7b07d46",
+    "ko-KR": "be538732-8f15-ed5f-21c9-306375a0f4a9",
+    "pl-PL": "0c3a8ac7-2036-265c-9ea8-19bffd0718c6",
+    "pt-PT": "b43c168e-b008-07c3-d645-3733f57f38af",
+    "ru-RU": "12ecb43a-0f4c-d3b6-b570-632f4bf8a941",
+    "es-ES": "f35ab487-c108-e319-37ea-ff8ebd9413d5",
+    "sv-SE": "c0e1aaa8-537c-e7e5-5a8f-a9017770d617",
+    "tr-TR": "fb07a027-da05-a696-5ea4-de766435841d"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/windowsserverdocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

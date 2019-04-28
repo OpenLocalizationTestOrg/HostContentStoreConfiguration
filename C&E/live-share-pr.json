@@ -1,0 +1,156 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/live-share-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/live-share-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/live-share-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/live-share-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/live-share-pr.cs-CZ",
+    "fr-FR": "https://github.com/MicrosoftDocs/live-share-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/live-share-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/live-share-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/live-share-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/live-share-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/live-share-pr.pl-PL",
+    "ru-RU": "https://github.com/MicrosoftDocs/live-share-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/live-share-pr.es-ES",
+    "tr-TR": "https://github.com/MicrosoftDocs/live-share-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "live-share-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "7423cb29-51d6-4d79-7320-c47bb33d5888",
+    "zh-CN": "02b8e98a-1b96-ab1a-f1da-c1760492accc",
+    "zh-TW": "5406251d-4394-7d8f-c6ce-68f2b3d00e5b",
+    "cs-CZ": "19750b76-ade7-5b96-bab9-73058614cb85",
+    "fr-FR": "bd82a022-4bc9-d616-ccf3-9b16b6f96b7a",
+    "de-DE": "4574d095-4278-8864-daeb-3be6e67992c4",
+    "it-IT": "dcc3befe-ea8a-eca0-3496-e1985b042f4d",
+    "ja-JP": "0513009e-975b-a9e5-b23b-0e55253ddee2",
+    "ko-KR": "58d375e3-74c2-077b-81d9-4f7f218f1c2f",
+    "pl-PL": "43cb14f4-c6d8-9551-b032-ef36343aaebd",
+    "ru-RU": "fb778eee-5c2a-40af-7556-81ed7ee536ea",
+    "es-ES": "40d6fe20-3d1c-e895-54e5-3d7f3146943e",
+    "tr-TR": "de2c6969-f3cb-b057-6bdc-a323c4c1dae4"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/live-share-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

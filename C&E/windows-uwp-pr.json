@@ -1,0 +1,145 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/windows-uwp-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/windows-uwp-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/windows-uwp-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/windows-uwp-pr.zh-tw",
+    "fr-FR": "https://github.com/MicrosoftDocs/windows-uwp-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/windows-uwp-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/windows-uwp-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/windows-uwp-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/windows-uwp-pr.ko-kr",
+    "ru-RU": "https://github.com/MicrosoftDocs/windows-uwp-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/windows-uwp-pr.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "windows-uwp-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "9284b887-833c-ce32-1764-f291b839bc1d",
+    "zh-CN": "0ffff7ce-693b-41dc-042f-20c6d37a27b7",
+    "zh-TW": "49054560-2f5b-829b-58f0-9bd60f59710e",
+    "fr-FR": "85d38a94-1e2c-f578-0d87-bda228889b68",
+    "de-DE": "e566e096-8156-7845-3d8a-437021017caf",
+    "it-IT": "148d1622-6b39-ae44-2143-8f6187e1002d",
+    "ja-JP": "3640d4ad-c45b-c900-4f88-0f69d63df336",
+    "ko-KR": "50a5950d-eb09-0238-a19c-b637f643bef3",
+    "ru-RU": "3e118554-7c85-e6c2-1b47-b65f0d01778e",
+    "es-ES": "f7ee0e67-5fd9-028c-79ab-fa8f0f31e663"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/windows-uwp-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

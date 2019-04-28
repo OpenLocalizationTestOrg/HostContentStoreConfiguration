@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/intellicode-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/intellicode-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/intellicode-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/intellicode-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/intellicode-pr.cs-CZ",
+    "fr-FR": "https://github.com/MicrosoftDocs/intellicode-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/intellicode-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/intellicode-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/intellicode-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/intellicode-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/intellicode-pr.pl-PL",
+    "ru-RU": "https://github.com/MicrosoftDocs/intellicode-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/intellicode-pr.es-ES",
+    "tr-TR": "https://github.com/MicrosoftDocs/intellicode-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "intellicode-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "642a8044-21d2-1880-64c1-420b1bde7bc1",
+    "zh-CN": "50fddf5d-8543-d38c-072a-617a0a6bce9a",
+    "zh-TW": "631b3ab8-a21d-c87e-0247-c2cfdfbd3365",
+    "cs-CZ": "0f6c645d-525d-b58a-cd0d-7eb49a94d131",
+    "fr-FR": "dd8b1fad-00bb-62ec-0282-9b6c9fb84cd5",
+    "de-DE": "c8051789-d8ce-b203-4131-3d3804cf887d",
+    "it-IT": "83d4d920-cdfa-ee88-fa25-b7a25e1eba4a",
+    "ja-JP": "9f89373a-4b81-848b-d26a-e33c232f3a53",
+    "ko-KR": "825e583f-d14c-0714-877e-bb73154ba7a0",
+    "pl-PL": "1d1af0f4-0186-c3c3-5c98-288b47d40303",
+    "ru-RU": "b019d991-9755-4f91-ffa7-4afdafe19288",
+    "es-ES": "a860cda8-fcaf-2684-2c1c-4bbe8a1d0fca",
+    "tr-TR": "e11a6b26-37e4-1086-521d-c09e0d73101d"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/intellicode-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

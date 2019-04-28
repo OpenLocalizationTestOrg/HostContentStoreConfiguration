@@ -1,0 +1,148 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nb-NO",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "th-TH",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.cs-CZ",
+    "da-DK": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.da-DK",
+    "nl-NL": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.nl-NL",
+    "fi-FI": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.fi-FI",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.ko-KR",
+    "nb-NO": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.nb-NO",
+    "pl-PL": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pl-PL",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.sv-SE",
+    "th-TH": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.th-TH",
+    "tr-TR": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "skypelocua@microsoft.com",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDocs-SkypeForBusiness",
+  "PublishPlatform": "General",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "!*\\Teams\\media\\*.jpg",
+    "!*\\Teams\\media\\*.png",
+    "!*\\Skype\\images\\*.png",
+    "!*\\Skype\\images\\*.gif",
+    "!*\\Skype\\images\\*.jpg",
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority",
+      "ms.loc"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "office"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nb-NO",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "th-TH",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

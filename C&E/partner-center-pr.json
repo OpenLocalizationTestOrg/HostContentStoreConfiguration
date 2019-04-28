@@ -1,0 +1,145 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/partner-center-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/partner-center-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/partner-center-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/partner-center-pr.zh-tw",
+    "fr-FR": "https://github.com/MicrosoftDocs/partner-center-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/partner-center-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/partner-center-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/partner-center-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/partner-center-pr.ko-kr",
+    "ru-RU": "https://github.com/MicrosoftDocs/partner-center-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/partner-center-pr.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "partner-center-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "4af63609-1f0d-d802-4782-a5e52f51f79c",
+    "zh-CN": "21b44067-ec58-f32a-ae92-6b452f9fd381",
+    "zh-TW": "bb9a7811-fbb9-c7bb-d8cd-9e3ba48fdced",
+    "fr-FR": "1f7eddef-523a-e799-8da3-950f5b4dd6ca",
+    "de-DE": "04ca1424-655f-7e57-fbe8-b646424797b4",
+    "it-IT": "06505583-5c02-c554-fdf4-563cdc7216cc",
+    "ja-JP": "a06fcf44-aa68-0a27-62d9-259bd1076886",
+    "ko-KR": "683bf61d-9592-c7ef-efb4-c4410f182a09",
+    "ru-RU": "7a985e2b-5c40-067e-c031-6a8a00be4740",
+    "es-ES": "5d4afd78-bcaa-709a-4b5b-ffc0c02a8294"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/partner-center-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

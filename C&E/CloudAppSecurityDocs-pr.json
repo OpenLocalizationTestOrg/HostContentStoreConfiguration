@@ -1,0 +1,152 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "CloudAppSecurityDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "0c1813f5-8873-016d-54d1-a5083ab3edf6",
+    "zh-CN": "7967b8f8-e53e-870e-f183-2c9f998722ff",
+    "zh-TW": "a9e7e3f7-1b41-f18a-7677-601d23cc5c8c",
+    "cs-CZ": "046bcd9b-5ece-4b34-836d-7cfde314805f",
+    "nl-NL": "46c7a07b-5a07-60ac-f7f1-36546a26c73d",
+    "fr-FR": "0452b33b-e448-4abd-2411-be06c4ce1bf8",
+    "de-DE": "7c96760e-2029-cc3c-b4f7-22d6b079e058",
+    "hu-HU": "97ba8522-8449-d70e-10c8-66480b567c7c",
+    "it-IT": "ea5cee8f-a195-6b5f-6750-be8656eb19c7",
+    "ja-JP": "2c480f4f-8d4c-eab8-a25f-edf85cf70b45",
+    "ko-KR": "d13edc29-d97c-44b8-4776-37be3a306d24",
+    "pl-PL": "92d4a91d-f82d-1f4c-eaf3-9dfb0bbac9ef",
+    "pt-PT": "1920a638-9329-f79a-809e-89f0425e7fcc",
+    "ru-RU": "76487d02-1a2a-391a-4695-b2b334dc3e4c",
+    "es-ES": "def0cc54-09a8-724e-f5c5-681b0a32c349",
+    "sv-SE": "59f5f6f7-cccd-bce1-d004-38646f559c57",
+    "tr-TR": "a1abf56e-48cf-89ac-9ff3-618087b6e940"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/CloudAppSecurityDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

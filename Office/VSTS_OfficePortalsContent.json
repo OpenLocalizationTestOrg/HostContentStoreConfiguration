@@ -1,0 +1,104 @@
+{
+  "SourceRepoUri": "https://odxip-intl.visualstudio.com/_git/OfficePortalsContent",
+  "SourceRepoLocale": "en-US",
+  "Branch": "staging",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "odxip-intl",
+  "TargetRepoUris": {
+    "pt-BR": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.pt-BR",
+    "zh-CN": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.zh-CN",
+    "fr-FR": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.fr-FR",
+    "de-DE": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.de-DE",
+    "ja-JP": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.ja-JP",
+    "ru-RU": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.ru-RU",
+    "es-ES": "https://odxip-intl.visualstudio.com/OfficePortalsContent/_git/OfficePortalsContent.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "olprod@microsoft.com",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "VSTS_OfficePortalsContent",
+  "PublishPlatform": "General",
+  "RepoIds": {},
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "office"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://odxip-intl.visualstudio.com/_git/OfficePortalsContent:staging",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

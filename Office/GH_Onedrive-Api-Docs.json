@@ -1,0 +1,126 @@
+{
+  "SourceRepoUri": "https://github.com/onedrive/onedrive-api-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "OneDrive",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/OneDrive/onedrive-api-docs.pt-BR",
+    "zh-CN": "https://github.com/OneDrive/onedrive-api-docs.zh-CN",
+    "fr-FR": "https://github.com/OneDrive/onedrive-api-docs.fr-FR",
+    "de-DE": "https://github.com/OneDrive/onedrive-api-docs.de-DE",
+    "ja-JP": "https://github.com/OneDrive/onedrive-api-docs.ja-JP",
+    "ru-RU": "https://github.com/OneDrive/onedrive-api-docs.ru-RU",
+    "es-ES": "https://github.com/OneDrive/onedrive-api-docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_Onedrive-Api-Docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "fd6dc52b-cd00-a0d2-aa33-55e80b22a940",
+    "zh-CN": "90c2512e-569c-6786-045c-5028d2532902",
+    "fr-FR": "dc6dc8ab-1f0d-63e3-bb2a-d802796d76d1",
+    "de-DE": "5fe40096-fb84-e332-21a0-c0d08fc117fb",
+    "ja-JP": "18ca37e6-69e0-456a-8a36-04f95641d9f0",
+    "ru-RU": "52ce2b79-7dc0-28f3-3743-a51a7076741c",
+    "es-ES": "27915678-434a-900f-31e0-bcff94745139"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/onedrive/onedrive-api-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

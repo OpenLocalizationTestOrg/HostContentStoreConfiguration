@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/mixed-reality",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/mixed-reality.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/mixed-reality.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/mixed-reality.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/mixed-reality.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/mixed-reality.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/mixed-reality.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/mixed-reality.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/mixed-reality.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/mixed-reality.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/mixed-reality.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "mixed-reality",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "fc786717-f6dd-2d7a-64e7-ff23c251453c",
+    "zh-CN": "c7e8bc82-b047-db80-7406-3dbe08d1171d",
+    "zh-TW": "667b7dff-f4fa-31f5-2b19-b0125d546607",
+    "fr-FR": "7839fc95-845b-1798-605c-684fafd25705",
+    "de-DE": "fa7cd49d-0fe8-ec16-dd57-71ccee29799c",
+    "it-IT": "26a8b3a7-faab-e4bb-e3dd-6507ff512565",
+    "ja-JP": "3a96dcb8-fa11-59ab-973a-5c5c4c979ebb",
+    "ko-KR": "2ae9ed86-b77f-3c91-8650-506392383adb",
+    "ru-RU": "98a74d98-f91d-2a61-28c1-d7c341527fc0",
+    "es-ES": "b2669892-8287-4ac1-63e1-70cc15f77961"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/mixed-reality:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

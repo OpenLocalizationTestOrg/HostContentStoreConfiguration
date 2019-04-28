@@ -1,0 +1,126 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-docs-sdk-python",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ceic_admin; SunnyDeng",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-sdk-python",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "1b2508d8-91ae-c45b-5039-bbede98324b7",
+    "zh-CN": "14dfd1a7-b0e7-f92c-0a1c-69c7d9d31fcd",
+    "zh-TW": "7e49aa46-12e0-a24f-7c9e-0968bea963a4",
+    "fr-FR": "8cd15fcd-a0f6-244d-88c4-db37433e12f4",
+    "de-DE": "41e41712-0d8f-f7ce-697b-9b142689e0a2",
+    "it-IT": "f1f270bd-146f-b91d-2710-e84bd880c766",
+    "ja-JP": "9ccd74e3-f07c-3269-8d94-35d7d62eee04",
+    "ko-KR": "d3918ffa-fcca-729b-a6f3-035597ef9a5b",
+    "ru-RU": "affea3a6-1c80-222b-8b96-896e59477efd",
+    "es-ES": "6977be55-ee13-295d-8e9c-9e527d6a6849"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json",
+    "**\\xrefmap.yml"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-docs-sdk-python:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,137 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "olprod",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_OfficeDocs-WorkplaceAnalytics-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "52efaf08-7b1a-9437-46d6-4e502b446cd7",
+    "zh-CN": "e1b6b63c-66f6-b19d-b149-4f7d4927f582",
+    "zh-TW": "da1de0ab-5c66-1526-6dba-13390e14607d",
+    "fr-FR": "29dc7289-2675-dfbf-b738-54d8347e140f",
+    "de-DE": "cfff575c-0df6-1b61-637a-7c9ab65d9791",
+    "it-IT": "542e7cb2-7afd-405e-1dd1-a1dde28bc3ee",
+    "ja-JP": "a234c320-7725-a9ea-b323-61e76b5994b0",
+    "ko-KR": "1708c94e-2c8e-5f95-3b27-6f760b8ddb96",
+    "ru-RU": "82d089b5-5301-b8e9-3035-b24011c44c9f",
+    "es-ES": "a423b850-d668-4e1b-d268-35fa2ce480e1"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-WorkplaceAnalytics-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

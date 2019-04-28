@@ -1,0 +1,109 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/versioning-test",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "ar-SA",
+    "de-DE",
+    "ja-JP"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "ar-SA": "https://github.com/MicrosoftDocs/versioning-test.ar-sa",
+    "de-DE": "https://github.com/MicrosoftDocs/versioning-test.de-de",
+    "ja-JP": "https://github.com/MicrosoftDocs/versioning-test.ja-jp"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Versioning-test",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "ar-SA": "8442c251-e51e-a969-3ec0-7da97480aa02",
+    "de-DE": "1aae6bb2-08a0-859e-c004-2fad3070f7fa",
+    "ja-JP": "b2f77cde-3ce6-0f4e-7ad0-39857f452957"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/versioning-test:master",
+  "TranslationLocales": [
+    "ar-SA",
+    "de-DE",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

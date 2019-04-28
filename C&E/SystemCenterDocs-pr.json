@@ -1,0 +1,153 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SonjaSaltzman",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "SystemCenterDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "68b36eb7-1eb1-d09e-b6ae-fce257915711",
+    "zh-CN": "cf43cad8-2ce2-29f8-9ea7-33196c9f948c",
+    "zh-TW": "6517d660-ab02-ae51-339f-c5bc44a61774",
+    "cs-CZ": "89c9129b-d975-9c3b-7253-a000acc237d8",
+    "nl-NL": "e0c35af8-75fa-9cf8-3b8d-e6abfb22080a",
+    "fr-FR": "eb80010d-34ff-60d6-840f-71dae1a23c50",
+    "de-DE": "47f2d11c-2cc6-b9ac-07f9-dc5991407ab8",
+    "hu-HU": "e28e2f28-071f-1a4f-bbe0-9df2c5d326ec",
+    "it-IT": "0799277e-0cdb-4522-85e0-ec1e41403892",
+    "ja-JP": "23cc5fb8-f9c4-02b5-820e-4fd4ca5f1ee2",
+    "ko-KR": "2bd7eabe-ee42-cc45-99c7-4ff6b076e6e5",
+    "pl-PL": "0d528d26-70a1-da30-fc21-351d47fbb59f",
+    "pt-PT": "c72fa44a-8ec1-5cac-3a10-d82c15c31c75",
+    "ru-RU": "19ce67d8-b460-509b-2d1c-8e8547e0d70e",
+    "es-ES": "b81dcd40-dd6c-2f35-5fb6-d8a6507187ab",
+    "sv-SE": "03910ed7-67df-9d90-ed77-a82fd531c44e",
+    "tr-TR": "ffc1a83b-7252-c40c-babc-30d56da5bb1f"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/SystemCenterDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

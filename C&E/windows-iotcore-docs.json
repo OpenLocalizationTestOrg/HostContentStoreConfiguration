@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/windows-iotcore-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/windows-iotcore-docs.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/windows-iotcore-docs.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/windows-iotcore-docs.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/windows-iotcore-docs.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/windows-iotcore-docs.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/windows-iotcore-docs.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/windows-iotcore-docs.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/windows-iotcore-docs.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/windows-iotcore-docs.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/windows-iotcore-docs.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "windows-iotcore-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "3876e4bc-4d15-fed7-f9ef-3558aa3414d3",
+    "zh-CN": "7263e73d-e2ee-e71e-e346-b8525e2c0d6f",
+    "zh-TW": "c0836313-e822-80b9-0311-82156b2299ac",
+    "fr-FR": "8d2ef1b3-f6d3-e8e3-1ec8-49a2b56de25c",
+    "de-DE": "98eecc79-421b-c9c6-8ab2-04282b4b2da4",
+    "it-IT": "14424626-6dda-135b-a07d-d136620c260f",
+    "ja-JP": "1f89ac5a-cfe5-8b60-1e28-a799dec4763a",
+    "ko-KR": "f858a712-b30a-18af-7056-c57d64587660",
+    "ru-RU": "ca2f6275-0d68-7413-7637-fdf729d7f8a9",
+    "es-ES": "f12d62a2-a7f1-c826-25be-21cd1476bf14"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/windows-iotcore-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

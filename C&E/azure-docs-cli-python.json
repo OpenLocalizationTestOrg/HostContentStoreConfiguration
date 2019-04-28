@@ -1,0 +1,147 @@
+{
+  "SourceRepoUri": "https://github.com/Azure/azure-docs-cli-python",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "Azure",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/Azure/azure-docs-cli-python.pt-br",
+    "zh-CN": "https://github.com/Azure/azure-docs-cli-python.zh-cn",
+    "zh-TW": "https://github.com/Azure/azure-docs-cli-python.zh-tw",
+    "cs-CZ": "https://github.com/Azure/azure-docs-cli-python.cs-cz",
+    "nl-NL": "https://github.com/Azure/azure-docs-cli-python.nl-nl",
+    "fr-FR": "https://github.com/Azure/azure-docs-cli-python.fr-fr",
+    "de-DE": "https://github.com/Azure/azure-docs-cli-python.de-de",
+    "hu-HU": "https://github.com/Azure/azure-docs-cli-python.hu-hu",
+    "it-IT": "https://github.com/Azure/azure-docs-cli-python.it-it",
+    "ja-JP": "https://github.com/Azure/azure-docs-cli-python.ja-jp",
+    "ko-KR": "https://github.com/Azure/azure-docs-cli-python.ko-kr",
+    "pl-PL": "https://github.com/Azure/azure-docs-cli-python.pl-pl",
+    "pt-PT": "https://github.com/Azure/azure-docs-cli-python.pt-pt",
+    "ru-RU": "https://github.com/Azure/azure-docs-cli-python.ru-ru",
+    "es-ES": "https://github.com/Azure/azure-docs-cli-python.es-es",
+    "sv-SE": "https://github.com/Azure/azure-docs-cli-python.sv-se",
+    "tr-TR": "https://github.com/Azure/azure-docs-cli-python.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "SunnyDeng",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-cli-python",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a1b0b78b-cf7a-66da-3301-15148607e769",
+    "zh-CN": "8c1d7638-2217-5e13-ed49-ec3540f7e655",
+    "zh-TW": "2a56ea9d-71c8-c37d-6c0c-a2efa1d8d728",
+    "cs-CZ": "5161637e-fadc-bb21-dd37-0c05b4589c50",
+    "nl-NL": "ce7522fe-7fe6-3ea9-5386-c5ba045e0324",
+    "fr-FR": "33e07f10-6eb5-5b3c-719c-2c86f603998f",
+    "de-DE": "bd437f2f-b4b4-f29d-f92c-7d695de80f7d",
+    "hu-HU": "73970e71-1729-5542-0ac6-9bbb8afce39c",
+    "it-IT": "b3ca84fb-c606-159a-13f0-c342bd47f955",
+    "ja-JP": "94e10350-69e1-3c17-4994-6459958501df",
+    "ko-KR": "1d485c0b-b856-3081-2923-e50d03715690",
+    "pl-PL": "b2e0fb43-e323-48b6-6720-c0013b29cc1d",
+    "pt-PT": "11842f11-6dda-7597-f628-086809a1c68c",
+    "ru-RU": "74eaa178-6487-131f-8b73-dae4d1779bb5",
+    "es-ES": "d7df40f3-081e-706d-62cd-4737f4d1df27",
+    "sv-SE": "fab112b4-f852-1429-9399-f9034f31e537",
+    "tr-TR": "f279ad9b-a36c-3f69-427c-87233dba611e"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 0,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json",
+    "**\\titleMapping.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": null,
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/Azure/azure-docs-cli-python:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/WSL",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/WSL.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/WSL.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/WSL.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/WSL.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/WSL.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/WSL.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/WSL.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/WSL.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/WSL.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/WSL.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "wsl",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a70efc70-b227-04f1-abfe-a59b6feb03d4",
+    "zh-CN": "8f8edf75-97b0-47a7-97de-956e5ccb5886",
+    "zh-TW": "a93ec15f-8ec6-afa1-e275-4896b3ec2984",
+    "fr-FR": "aefdc00e-264b-a617-a478-ba563e53c750",
+    "de-DE": "b635cd52-dad5-6b73-c0e1-d8fe467dab1a",
+    "it-IT": "d580b2c9-10f5-7626-9c76-37dd87536e14",
+    "ja-JP": "0cd55c37-dd08-a32f-4eba-796abb83420c",
+    "ko-KR": "09f1a53a-1d47-fc6c-10a6-3aec15686a56",
+    "ru-RU": "37b2ec92-b8dd-cbda-c3d2-c814e9bdfaec",
+    "es-ES": "12e872f4-c1fd-69e8-3771-010065880369"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/WSL:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,176 @@
+{
+  "SourceRepoUri": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR",
+    "da-DK"
+  ],
+  "Owner": "docs-archive",
+  "TargetRepoUris": {
+    "pt-BR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.pt-BR",
+    "zh-CN": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.zh-CN",
+    "zh-TW": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.zh-TW",
+    "cs-CZ": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.cs-CZ",
+    "nl-NL": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.nl-NL",
+    "fr-FR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.fr-FR",
+    "de-DE": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.de-DE",
+    "hu-HU": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.hu-HU",
+    "it-IT": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.it-IT",
+    "ja-JP": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.ja-JP",
+    "ko-KR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.ko-KR",
+    "pl-PL": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.pl-PL",
+    "pt-PT": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.pt-PT",
+    "ru-RU": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.ru-RU",
+    "es-ES": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.es-ES",
+    "sv-SE": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.sv-SE",
+    "tr-TR": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.tr-TR",
+    "da-DK": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr.da-DK"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "archive-common-content-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "09070554-bc39-5f9c-99eb-32bdd4ab3761",
+    "zh-CN": "23ed30d1-21eb-b232-8479-51711af453bb",
+    "zh-TW": "9e52d8ed-3d40-dac9-0d48-8eec3a94d202",
+    "cs-CZ": "ce2565e2-c91c-b55d-2f91-152ae78a1b85",
+    "nl-NL": "74076654-860f-eaf1-c2bf-638dc0d8959e",
+    "fr-FR": "5b29a113-3989-58d2-3bdc-fadb757c39c3",
+    "de-DE": "c11671de-79a4-7a4d-1c8a-dea1b3c0c079",
+    "hu-HU": "87b2d794-b2c2-c148-ad57-a4bce24cce21",
+    "it-IT": "8d50aed7-2dd7-f382-c5c7-176aa72f41f4",
+    "ja-JP": "da4dc469-0012-41ac-e0d5-a2e6f22ebdd7",
+    "ko-KR": "90432ae6-94c7-2dc5-92f0-c14c7c51e0ae",
+    "pl-PL": "0dca4be0-f8f9-c0b5-24df-499e3b20f792",
+    "pt-PT": "708ffbaf-afc0-12af-533e-9b64f78f536e",
+    "ru-RU": "45998887-5453-50f5-6ab0-10085aa47c4a",
+    "es-ES": "18105416-f883-37ba-f5eb-b799051ca894",
+    "sv-SE": "02494a15-106b-b84f-5be5-627f05d2def7",
+    "tr-TR": "43abec0e-7753-3d2e-2f22-af0828ef16d1",
+    "da-DK": "60f6d1d6-0d92-3cce-1567-0114549aaf7c"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://docs-archive.visualstudio.com/docs-archive-project/_git/archive-common-content-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR",
+    "da-DK"
+  ],
+  "NoLocales": false
+}

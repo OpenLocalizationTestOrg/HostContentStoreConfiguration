@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "SharePoint",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.pt-BR",
+    "zh-CN": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.zh-CN",
+    "fr-FR": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.fr-FR",
+    "de-DE": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.de-DE",
+    "ja-JP": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.ja-JP",
+    "ru-RU": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.ru-RU",
+    "es-ES": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_sp-dev-docs-pnp-ref-dotnet",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "55ab9dd5-f7e8-56fe-42db-d713c7e94612",
+    "zh-CN": "129ffa8f-37b8-1010-89aa-bff5be7c7680",
+    "fr-FR": "3511a138-d608-d75e-f72a-39d7e8de8c4a",
+    "de-DE": "8c1faf1d-d964-ed37-4582-784aa0bc22af",
+    "ja-JP": "45729a2a-1c63-f2ef-dc25-8a082ebe9f3b",
+    "ru-RU": "908140df-c071-1487-ca83-61878355780e",
+    "es-ES": "505adb2b-cb13-69e3-df71-9e1b41306bdd"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/SharePoint/sp-dev-docs-pnp-ref-dotnet:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

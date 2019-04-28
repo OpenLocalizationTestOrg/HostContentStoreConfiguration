@@ -1,0 +1,155 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-dynamics-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "Loc-Live",
+  "Locales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE",
+    "zh-CN",
+    "zh-TW",
+    "ko-KR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-dynamics-pr.pt-BR",
+    "da-DK": "https://github.com/MicrosoftDocs/learn-dynamics-pr.da-DK",
+    "nl-NL": "https://github.com/MicrosoftDocs/learn-dynamics-pr.nl-NL",
+    "fi-FI": "https://github.com/MicrosoftDocs/learn-dynamics-pr.fi-FI",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-dynamics-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-dynamics-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-dynamics-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-dynamics-pr.ja-JP",
+    "nb-NO": "https://github.com/MicrosoftDocs/learn-dynamics-pr.nb-NO",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-dynamics-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/learn-dynamics-pr.sv-SE",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-dynamics-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-dynamics-pr.zh-TW",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-dynamics-pr.ko-KR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "DynamicsIPE-mdocs",
+      "openlocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Read": [
+      "everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "learn-dynamics-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c8d60f6a-21d9-6be5-26b2-8b03145853bc",
+    "da-DK": "bb29a4b5-dbcc-44f5-8d7d-2b782c301519",
+    "nl-NL": "4f7bbbf7-ac2f-d40c-fd62-47afcf532989",
+    "fi-FI": "1e0d9e42-0bc6-fc53-db53-75c7cde5e69e",
+    "fr-FR": "a8fc561e-d903-c729-f8dd-93bc04a75407",
+    "de-DE": "4b581af1-e3a0-ffc3-538c-255abcbbc4c0",
+    "it-IT": "c1dbc606-bc49-867c-a2b3-dbf219f7f379",
+    "ja-JP": "ea96b266-55d1-a886-fe24-049c2287f02c",
+    "nb-NO": "554f7139-17d4-8568-3846-c10669a72638",
+    "es-ES": "2b3423c1-eaf6-658f-da7e-84362aebf7f1",
+    "sv-SE": "1669506e-ffa9-f8d5-0498-ec703fc60168",
+    "zh-CN": "a09754b2-853b-ae71-5592-5b6162cfe54b",
+    "zh-TW": "512f4847-e2ce-5b55-a7a5-3d268145c693",
+    "ko-KR": "7c7cf025-4392-8fc0-def5-54a958695112"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-dynamics-pr:Loc-Live",
+  "TranslationLocales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE",
+    "zh-CN",
+    "zh-TW",
+    "ko-KR"
+  ],
+  "NoLocales": false
+}

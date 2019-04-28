@@ -1,0 +1,145 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Azure-Sphere-Docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "31e7abcc-4eb1-f9f9-ec6f-ae2abd6ea4e9",
+    "zh-CN": "2b187d77-15e7-edc1-74c4-c1635b5cf0fc",
+    "zh-TW": "ef1fe19a-3a02-9238-2b99-eb2bdf2504e1",
+    "fr-FR": "695558ac-250c-cec9-c726-93abce1a030c",
+    "de-DE": "cc4688c3-d12e-7dc3-e397-5c13387eb5f2",
+    "it-IT": "38ded446-a388-a920-fe78-86e005bb9d4f",
+    "ja-JP": "1853c7a6-9041-00ba-cbf9-b195415353a1",
+    "ko-KR": "38ec2ae5-8d4a-2de5-98fc-ffc42b410f52",
+    "ru-RU": "3ced793d-522e-df7f-2955-757b58dc3396",
+    "es-ES": "00b5bae2-18a9-77be-34b6-ca92b039c9d6"
+  },
+  "TargetRepoPublishBranch": "live",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/Azure-Sphere-Docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

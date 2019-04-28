@@ -1,0 +1,140 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.pt-BR",
+    "da-DK": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.da-dk",
+    "nl-NL": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.nl-nl",
+    "fi-FI": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.fi-FI",
+    "fr-FR": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.ja-jp",
+    "nb-NO": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.nb-NO",
+    "es-ES": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes.sv-SE"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "DynamicsIPE-mdocs",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "BusinessApplication-ReleaseNotes",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "17d7bcc2-053f-43af-d563-eb6d0d428b9e",
+    "da-DK": "d8604bd0-2dfa-1f80-bb13-511bf87d7c67",
+    "nl-NL": "1589a83e-4884-3606-24ec-f7a0e18ba013",
+    "fi-FI": "0321493f-576b-170b-34f1-07ffcd705afe",
+    "fr-FR": "0ae2be9d-b2a7-d0aa-0ea9-f497dc2c0165",
+    "de-DE": "343c2502-a12c-adcb-57e2-bab7be135cbe",
+    "it-IT": "33fe00ef-9f48-d93b-c45a-1a6b13225bd2",
+    "ja-JP": "0b42390e-f4ef-9cbe-3cd8-57342338bf5d",
+    "nb-NO": "fc82e88a-c8fd-5e85-d991-84a1910e0efe",
+    "es-ES": "b61ed23d-2c2b-02b3-c51f-470feb88fa9c",
+    "sv-SE": "12819d1e-ea99-af95-3ea0-9492f3fb768a"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes:master",
+  "TranslationLocales": [
+    "pt-BR",
+    "da-DK",
+    "nl-NL",
+    "fi-FI",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "nb-NO",
+    "es-ES",
+    "sv-SE"
+  ],
+  "NoLocales": false
+}

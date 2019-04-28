@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/AdaptiveCards",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/AdaptiveCards.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/AdaptiveCards.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/AdaptiveCards.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/AdaptiveCards.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/AdaptiveCards.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/AdaptiveCards.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/AdaptiveCards.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/AdaptiveCards.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/AdaptiveCards.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/AdaptiveCards.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "adaptivecards",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "3c0bbc89-c318-8852-cb08-abfa99ddf619",
+    "zh-CN": "90d53bc7-8d1e-fa50-ced5-00608d5c0580",
+    "zh-TW": "a90ab522-916d-0193-4719-5b965f429fcc",
+    "fr-FR": "6d015d5f-356b-32cf-5e00-1aecbffcebf2",
+    "de-DE": "d148470e-7d4b-5693-f7a3-ea6b47b574d1",
+    "it-IT": "ef296db1-0366-bb1a-80a7-b6467ed36591",
+    "ja-JP": "3ac7e5e7-d005-f1e3-2518-9084e22042f3",
+    "ko-KR": "4e3d5c0c-f155-2871-7b63-3f19d351a19d",
+    "ru-RU": "be6e0128-a5b9-9311-b36f-17635c6ad688",
+    "es-ES": "05e74ea5-cef6-284f-4296-20f549e075ed"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/AdaptiveCards:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

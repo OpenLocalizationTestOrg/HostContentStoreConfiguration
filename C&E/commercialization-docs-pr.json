@@ -1,0 +1,145 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/commercialization-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/commercialization-docs-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/commercialization-docs-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/commercialization-docs-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/commercialization-docs-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/commercialization-docs-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/commercialization-docs-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/commercialization-docs-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/commercialization-docs-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/commercialization-docs-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/commercialization-docs-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "commercialization-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "b7b5b186-6eb5-2765-8691-cac2f5f57774",
+    "zh-CN": "58593b02-1f05-34af-0d18-4fb85ce12783",
+    "zh-TW": "dd60facd-398a-d9d6-7d41-a86bed428097",
+    "fr-FR": "ed7655d2-07b5-42fc-99a6-cac70a50b7ba",
+    "de-DE": "ddda2932-0c48-5524-3312-034fa76baf14",
+    "it-IT": "a0f3c825-8b4d-33f9-14d4-1f10daa4e1e0",
+    "ja-JP": "7a5094bf-25fd-f574-a3b1-a2842d948a5f",
+    "ko-KR": "666951d1-8988-9219-ae20-813a42578ae2",
+    "ru-RU": "07f39bcd-730d-a4b4-e9b9-29bef274a0d0",
+    "es-ES": "cd2fd1e8-a1ae-81cc-e621-35d9dc4a4153"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/commercialization-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

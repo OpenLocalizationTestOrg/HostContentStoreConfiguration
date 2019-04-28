@@ -1,0 +1,108 @@
+{
+  "SourceRepoUri": "https://github.com/OfficeDev/office-store-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "OfficeDev",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/OfficeDev/office-store-docs.pt-br",
+    "zh-CN": "https://github.com/OfficeDev/office-store-docs.zh-cn",
+    "fr-FR": "https://github.com/OfficeDev/office-store-docs.fr-fr",
+    "de-DE": "https://github.com/OfficeDev/office-store-docs.de-de",
+    "ja-JP": "https://github.com/OfficeDev/office-store-docs.ja-jp",
+    "ru-RU": "https://github.com/OfficeDev/office-store-docs.ru-ru",
+    "es-ES": "https://github.com/OfficeDev/office-store-docs.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeDev_office-store-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c58bffc0-6d4f-bf47-c190-0b6d1ed3ca38",
+    "zh-CN": "0b9c91f7-896f-7a90-4289-dd8f3d967032",
+    "fr-FR": "280434c9-8574-de1b-40a9-c82c320e6196",
+    "de-DE": "767fa97a-9f69-914d-c3a4-011095bd372e",
+    "ja-JP": "a725dabb-8af6-169b-9f3e-54efa6b01c67",
+    "ru-RU": "4a8b076a-1145-9eaa-8a76-3925d46de90b",
+    "es-ES": "d6cb6b40-c5b9-48e4-d133-8b3192f25274"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "office"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/OfficeDev/office-store-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

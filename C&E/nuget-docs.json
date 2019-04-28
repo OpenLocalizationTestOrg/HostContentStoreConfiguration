@@ -1,0 +1,154 @@
+{
+  "SourceRepoUri": "https://github.com/NuGet/docs.microsoft.com-nuget",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "NuGet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/NuGet/docs.microsoft.com-nuget.pt-br",
+    "zh-CN": "https://github.com/NuGet/docs.microsoft.com-nuget.zh-cn",
+    "zh-TW": "https://github.com/NuGet/docs.microsoft.com-nuget.zh-tw",
+    "cs-CZ": "https://github.com/NuGet/docs.microsoft.com-nuget.cs-cz",
+    "fr-FR": "https://github.com/NuGet/docs.microsoft.com-nuget.fr-fr",
+    "de-DE": "https://github.com/NuGet/docs.microsoft.com-nuget.de-de",
+    "it-IT": "https://github.com/NuGet/docs.microsoft.com-nuget.it-it",
+    "ja-JP": "https://github.com/NuGet/docs.microsoft.com-nuget.ja-jp",
+    "ko-KR": "https://github.com/NuGet/docs.microsoft.com-nuget.ko-kr",
+    "pl-PL": "https://github.com/NuGet/docs.microsoft.com-nuget.pl-pl",
+    "ru-RU": "https://github.com/NuGet/docs.microsoft.com-nuget.ru-ru",
+    "es-ES": "https://github.com/NuGet/docs.microsoft.com-nuget.es-es",
+    "tr-TR": "https://github.com/NuGet/docs.microsoft.com-nuget.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ceic_admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "ceic"
+    ],
+    "Read": [
+      "everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "nuget-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "6f86fbab-4d98-2eef-e7d6-78b69b02e4a8",
+    "zh-CN": "4854a503-acd0-b830-4020-acb2727b495c",
+    "zh-TW": "1bffa7f8-8c41-989e-6d54-9d052deed9fb",
+    "cs-CZ": "ef789df3-9fb8-88bf-070e-e125fd35b8a7",
+    "fr-FR": "1b01c18e-2f5c-95b5-05a7-d87486a6b230",
+    "de-DE": "bb7aa481-d1d9-ce4b-e21c-4d9b99b1137e",
+    "it-IT": "5e35fc20-6e1e-151f-526e-dfbe84f9f016",
+    "ja-JP": "e8e84a27-5fb3-a5e8-5e2f-8214a848d193",
+    "ko-KR": "3b9067fe-5cef-a962-bdf1-428b677d16a7",
+    "pl-PL": "295abd43-e647-08e9-8938-619c23e8f02a",
+    "ru-RU": "ff3f9a13-a761-4f5b-530b-93a8a3ed6067",
+    "es-ES": "f199de72-9f1a-1180-0710-8539199b44bb",
+    "tr-TR": "5ca6b091-a72f-db51-424a-b32dfcb928bd"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/NuGet/docs.microsoft.com-nuget:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,161 @@
+{
+  "SourceRepoUri": "https://github.com/dotnet/dotnet-api-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "Owner": "Dotnet",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/dotnet/dotnet-api-docs.pt-br",
+    "zh-CN": "https://github.com/dotnet/dotnet-api-docs.zh-cn",
+    "zh-TW": "https://github.com/dotnet/dotnet-api-docs.zh-tw",
+    "cs-CZ": "https://github.com/dotnet/dotnet-api-docs.cs-cz",
+    "fr-FR": "https://github.com/dotnet/dotnet-api-docs.fr-fr",
+    "de-DE": "https://github.com/dotnet/dotnet-api-docs.de-de",
+    "it-IT": "https://github.com/dotnet/dotnet-api-docs.it-it",
+    "ja-JP": "https://github.com/dotnet/dotnet-api-docs.ja-jp",
+    "ko-KR": "https://github.com/dotnet/dotnet-api-docs.ko-kr",
+    "pl-PL": "https://github.com/dotnet/dotnet-api-docs.pl-pl",
+    "ru-RU": "https://github.com/dotnet/dotnet-api-docs.ru-ru",
+    "es-ES": "https://github.com/dotnet/dotnet-api-docs.es-es",
+    "tr-TR": "https://github.com/dotnet/dotnet-api-docs.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "dotnet-api",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "e387c1e6-8adf-219c-0960-2a30acf02059",
+    "zh-CN": "e2b8e239-e5e3-85d7-8e14-da1d6c0c9196",
+    "zh-TW": "d61675e7-a454-900b-6107-d7794e2e37f1",
+    "cs-CZ": "9e13b331-538c-ac98-d0fb-468675bed5a4",
+    "fr-FR": "b6ac2272-0cd9-abe6-16b3-951c8ed585be",
+    "de-DE": "e952afa8-377a-da59-946d-0679d2bc1666",
+    "it-IT": "13a8aa31-8edc-71c8-0977-276a1117dc33",
+    "ja-JP": "276917b4-503e-f2cf-7d6f-2b265380fbf2",
+    "ko-KR": "65312cbf-c820-7ddd-d5a7-91f7394f7ef9",
+    "pl-PL": "f4e59b2e-d92b-c416-45d3-1e2d2e799bd9",
+    "ru-RU": "3aac22fb-1f52-5b7f-0be7-e1791fb47821",
+    "es-ES": "7bc079f8-a418-e211-dc9c-a7b8a518405f",
+    "tr-TR": "ecc226de-3d9e-076f-d500-fc24662ff147"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\_zip\\*",
+    "**\\_zip\\**\\*",
+    "**\\xml\\FrameworksIndex\\*",
+    "**\\xml\\_moniker2Assembly.json",
+    "**\\xml\\index.xml"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/dotnet/dotnet-api-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "ru-RU",
+    "es-ES",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

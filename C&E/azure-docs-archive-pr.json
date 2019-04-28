@@ -1,0 +1,171 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-docs-archive-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/azure-docs-archive-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-archive-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "c835ce32-772c-8efc-18c8-dd262c3214a4",
+    "zh-CN": "ad9e5257-c996-ac38-2293-d74986c5a025",
+    "zh-TW": "b8e88966-3eb5-aef4-fa2a-2cff3363c6b0",
+    "cs-CZ": "9220b8a1-14e4-727e-9eb9-d5f6e3ca88f5",
+    "nl-NL": "1d39b2a2-1b63-eadf-88e5-0dfd9ef4cc83",
+    "fr-FR": "ad396483-bea2-f74d-efa2-3723f51cc9bc",
+    "de-DE": "98064287-2f20-c7e8-855c-e0e47e4cd4ea",
+    "hu-HU": "81c5b5e6-b864-3e8a-3131-6ee01febda21",
+    "it-IT": "f9f8906a-1885-315f-a3f6-d89d81b7176e",
+    "ja-JP": "b8f813a1-cb46-1763-a487-46cf521af7d2",
+    "ko-KR": "1520a1f2-26b8-024e-b052-07fed40f17ca",
+    "pl-PL": "8296be8a-b5c9-064d-a7ad-8fac8eab8b18",
+    "pt-PT": "5183f516-b6f4-d3bc-024a-355b37323af0",
+    "ru-RU": "8ccbda36-b29f-eea0-38a0-cfa1e738026c",
+    "es-ES": "03fecc46-815d-9ba6-dc49-bf6dd3684cf4",
+    "sv-SE": "a2501b74-deeb-ca4e-1b3a-6cf8e50873dc",
+    "tr-TR": "825f2a8c-3cd8-a362-c77f-75d46ffa9a1c"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-docs-archive-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

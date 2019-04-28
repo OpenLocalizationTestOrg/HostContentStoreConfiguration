@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/sql-docs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/sql-docs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/sql-docs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/sql-docs-pr.zh-tw",
+    "fr-FR": "https://github.com/MicrosoftDocs/sql-docs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/sql-docs-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/sql-docs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/sql-docs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/sql-docs-pr.ko-kr",
+    "ru-RU": "https://github.com/MicrosoftDocs/sql-docs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/sql-docs-pr.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "sql-docs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "ab56e04f-3b3a-10bb-d5c0-bcc1ba8f882a",
+    "zh-CN": "6a7ef49a-b7a6-8c04-c446-ba2cbc2b42af",
+    "zh-TW": "da74af20-d0d4-a1eb-6c82-a00eb5c19468",
+    "fr-FR": "59639922-8cc4-2b2f-b6bd-c3f55cc39895",
+    "de-DE": "2eec6fc1-aabb-2890-4a9a-63c750eae83b",
+    "it-IT": "9f999dd4-345e-af52-4e6e-6ea4a30fdca1",
+    "ja-JP": "401af8e0-7c98-ec63-1e35-98d310de09e1",
+    "ko-KR": "3ebb736f-8bee-256c-498b-882479ce4bd1",
+    "ru-RU": "560445e7-02cc-12c4-a248-2a811e092e05",
+    "es-ES": "5c377e20-bd19-f6a4-539e-e42d7efc1ea3"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/sql-docs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

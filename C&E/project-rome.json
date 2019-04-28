@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/project-rome",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/project-rome.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/project-rome.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/project-rome.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/project-rome.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/project-rome.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/project-rome.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/project-rome.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/project-rome.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/project-rome.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/project-rome.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "project-rome",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "248f1ee3-72b0-6ec1-ae80-a0db9a1b9500",
+    "zh-CN": "31cf83a0-64c4-186e-1651-b873561a1bdd",
+    "zh-TW": "55982235-211a-4836-2e2b-84551243c5f1",
+    "fr-FR": "d90fef9b-d92f-450e-1763-063df2d2e052",
+    "de-DE": "87e9b0fa-ea01-707e-dbc5-9801d2d0fdd6",
+    "it-IT": "13ed1cee-4aba-9ca5-9433-cb1c93eb9011",
+    "ja-JP": "49bb4096-d96a-28fb-8123-3237f4a3b76f",
+    "ko-KR": "39996bed-9f65-7cfb-b70b-23f6a7be5713",
+    "ru-RU": "f3e21d08-f68f-a848-c3b3-87c332d6c1d7",
+    "es-ES": "a5960585-3050-a160-af7d-2c27967b7eba"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/project-rome:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

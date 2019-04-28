@@ -1,0 +1,144 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/learn-sqlserver-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/learn-sqlserver-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "learn-sqlserver-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "4ed15025-44ee-24bb-4214-9f3e461e44ef",
+    "zh-CN": "b26e11d7-0635-451f-5b0b-253c1d685191",
+    "zh-TW": "d73b0f7a-f905-d858-bcd4-33de6a597ee5",
+    "fr-FR": "405d90e3-604d-41b6-7a7d-748fec759968",
+    "de-DE": "bea1d090-6912-e4b5-2fd5-bf175e265746",
+    "it-IT": "bae50c04-d975-4ed5-aee2-f181d7f33637",
+    "ja-JP": "97bfaeea-2d22-b860-ee93-930e7fe01bc4",
+    "ko-KR": "5faa6c40-26f4-12e5-822a-2ecd732e4697",
+    "ru-RU": "e444417c-32cd-633b-7aab-6e5c48f07866",
+    "es-ES": "15493e41-1fe6-4643-74df-0c5fd22c0f75"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": true,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/learn-sqlserver-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,109 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/D365-HP-iCMSTest",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": [
+    "fr-FR",
+    "de-DE",
+    "ja-JP"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "fr-FR": "https://github.com/MicrosoftDocs/D365-HP-iCMSTest.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/D365-HP-iCMSTest.de-DE",
+    "ja-JP": "https://github.com/MicrosoftDocs/D365-HP-iCMSTest.ja-JP"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "master",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OPS_Admin",
+      "DynamicsIPE-mdocs",
+      "olprod",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "Dynamics",
+  "HostContentStore": "D365-HP-iCMSTest",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "fr-FR": "7070bad3-5770-7158-41b2-4cf0e2ffeaba",
+    "de-DE": "b84b0bab-2413-ff6b-7b78-e1780337cd33",
+    "ja-JP": "d02acff5-690b-0485-922f-2b6a99a058af"
+  },
+  "TargetRepoPublishBranch": "master-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/D365-HP-iCMSTest:master",
+  "TranslationLocales": [
+    "fr-FR",
+    "de-DE",
+    "ja-JP"
+  ],
+  "NoLocales": false
+}

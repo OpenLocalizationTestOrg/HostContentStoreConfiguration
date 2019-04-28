@@ -1,0 +1,112 @@
+{
+  "SourceRepoUri": "https://github.com/OfficeDev/outlook-dev-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "OfficeDev",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/OfficeDev/outlook-dev-docs.pt-br",
+    "zh-CN": "https://github.com/OfficeDev/outlook-dev-docs.zh-cn",
+    "fr-FR": "https://github.com/OfficeDev/outlook-dev-docs.fr-fr",
+    "de-DE": "https://github.com/OfficeDev/outlook-dev-docs.de-de",
+    "ja-JP": "https://github.com/OfficeDev/outlook-dev-docs.ja-jp",
+    "ru-RU": "https://github.com/OfficeDev/outlook-dev-docs.ru-ru",
+    "es-ES": "https://github.com/OfficeDev/outlook-dev-docs.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_Outlook-Dev-Docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "3b738822-5dde-5d6f-fb84-a5ff27d4d977",
+    "zh-CN": "504d84a0-aa03-9974-425b-ffc7cf74443b",
+    "fr-FR": "8f0ef615-28c6-1db5-0374-0d8d9d956cf1",
+    "de-DE": "03351040-759f-c9da-8bcf-8a9371472c43",
+    "ja-JP": "38186bae-2037-724a-3a25-7c320b5a150d",
+    "ru-RU": "daded8a6-9f81-8b1a-cb53-c2e6662f6d22",
+    "es-ES": "35f0cba5-f8aa-06a1-1e8d-fe2a6e7ff557"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "office"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/OfficeDev/outlook-dev-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

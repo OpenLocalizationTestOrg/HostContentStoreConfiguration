@@ -1,0 +1,136 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/sql-managed-reference-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.zh-tw",
+    "fr-FR": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.de-de",
+    "it-IT": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.ko-kr",
+    "ru-RU": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/sql-managed-reference-pr.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "sql-managed-reference-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "0e971f50-d6ba-a59b-6850-26b39deb9501",
+    "zh-CN": "85bb36b6-0e5c-5cbb-1cad-64145318da37",
+    "zh-TW": "ffab8a5d-5274-c74b-b8c6-348583b251e2",
+    "fr-FR": "57e32f69-e3b1-42ef-3a01-a047cd31c2d2",
+    "de-DE": "22263ae2-5098-9662-04ce-8fda5cb6b674",
+    "it-IT": "c2e91722-3a45-e09b-2aad-0e775cea6875",
+    "ja-JP": "98c5458f-114e-0915-ca3e-a4eccebff2c0",
+    "ko-KR": "d2c9ef1a-566b-7d47-73a5-6bb51a1da43e",
+    "ru-RU": "662fef72-1e92-40e7-2e05-829853c91689",
+    "es-ES": "f5a4705c-c9b4-7168-f16c-9a6532881c45"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/sql-managed-reference-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

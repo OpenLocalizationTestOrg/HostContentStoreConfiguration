@@ -1,0 +1,102 @@
+{
+  "SourceRepoUri": "https://msazure.visualstudio.com/DefaultCollection/One/_git/bapiweb-Stream",
+  "SourceRepoLocale": "en-US",
+  "Branch": "master",
+  "Locales": null,
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": null,
+  "RenamePatternKey": "[filename].[language].[extension]",
+  "TargetRepoBranch": "LocalizationHandBack",
+  "TargetRepoBilingualBranch": "master-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "olprod",
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "olprod",
+      "CEIC_Admin"
+    ],
+    "Read": [
+      "olprod",
+      "CEIC_Admin"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "LocalizationHandBack",
+    "master-sxs",
+    "master",
+    "live",
+    "live-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Stream-site",
+  "PublishPlatform": "Unknown",
+  "RepoIds": null,
+  "TargetRepoPublishBranch": null,
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 1800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": true,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://msazure.visualstudio.com/DefaultCollection/One/_git/bapiweb-Stream:master",
+  "TranslationLocales": [
+    "en-US"
+  ],
+  "NoLocales": true
+}

@@ -1,0 +1,143 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "th-TH",
+    "vi-VN"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.es-ES",
+    "th-TH": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.th-TH",
+    "vi-VN": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr.vi-VN"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "OfficeITpro_FastTrack",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "2e34bcf4-3514-f813-eac2-0cf225e6da05",
+    "zh-CN": "0a681dbd-f987-d2d3-3dc2-f3dcd9a6cd25",
+    "zh-TW": "8b0e2dcc-0ad3-7065-e183-0fb28a519606",
+    "fr-FR": "4f051d17-1e05-8c86-e449-3383bb7228a9",
+    "de-DE": "1130b852-ca12-5567-289b-318730035b9c",
+    "it-IT": "75f60783-1a5c-4f99-b4e7-d6c5a69d262f",
+    "ja-JP": "3d81b400-c0dd-0760-d1ff-94b176061993",
+    "ko-KR": "168c47b7-cd24-ee61-9ff1-a88d9428a944",
+    "ru-RU": "c4336e84-296d-6950-18a3-f745c3308948",
+    "es-ES": "70d5a3ff-1596-e781-2472-9c325f81d4de"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES",
+    "th-TH",
+    "vi-VN"
+  ],
+  "NoLocales": false
+}

@@ -1,0 +1,124 @@
+{
+  "SourceRepoUri": "https://github.com/SharePoint/sp-dev-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "SharePoint",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/SharePoint/sp-dev-docs.pt-br",
+    "zh-CN": "https://github.com/SharePoint/sp-dev-docs.zh-cn",
+    "fr-FR": "https://github.com/SharePoint/sp-dev-docs.fr-fr",
+    "de-DE": "https://github.com/SharePoint/sp-dev-docs.de-de",
+    "ja-JP": "https://github.com/SharePoint/sp-dev-docs.ja-jp",
+    "ru-RU": "https://github.com/SharePoint/sp-dev-docs.ru-ru",
+    "es-ES": "https://github.com/SharePoint/sp-dev-docs.es-es"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "OfficeGSX",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "Office",
+  "HostContentStore": "GH_SP-Dev-Docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "101970fb-febd-ed10-c4cb-56885b331c00",
+    "zh-CN": "9f9a9ec1-b71a-9a99-9da1-4da2e7f1e9cd",
+    "fr-FR": "511d849f-2f2d-3cc7-b364-a4834523dfe9",
+    "de-DE": "7222b620-caba-26e1-6bb3-7bdc5ec7d583",
+    "ja-JP": "84612074-4a57-6ad2-5c50-423eb950d32c",
+    "ru-RU": "7d4b3131-f22f-3f9a-a9d0-c28acf997081",
+    "es-ES": "ccd667ac-d33e-c7cb-3bc3-c5acd1f076a0"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "False",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "office",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "True",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/SharePoint/sp-dev-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "fr-FR",
+    "de-DE",
+    "ja-JP",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

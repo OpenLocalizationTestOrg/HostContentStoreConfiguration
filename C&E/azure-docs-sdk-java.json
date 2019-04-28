@@ -1,0 +1,128 @@
+{
+  "SourceRepoUri": "https://github.com/azure/azure-docs-sdk-java",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-sdk-java.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "ceic_admin; SunnyDeng",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-sdk-java",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "f81f7d9a-316a-8d8c-5fad-4e02e657a253",
+    "zh-CN": "6f426630-c002-99e3-45f4-403d88c5f9b4",
+    "zh-TW": "a0fe6aac-20f6-88c6-4573-0c13f9bea6fc",
+    "fr-FR": "4e3135d5-d316-4e98-838d-73c5e1419bd3",
+    "de-DE": "3295bcb7-60d3-1616-b27b-85174bee3678",
+    "it-IT": "b307986d-d7ed-8b6b-890b-e0e17a2d0320",
+    "ja-JP": "bf754b3d-ce76-0fe3-b0ac-c18c1403ddad",
+    "ko-KR": "c9ea8276-e4a1-8ade-db3c-fd8e25d29300",
+    "ru-RU": "bcf3d830-b953-b792-92c3-da4afba9e61d",
+    "es-ES": "d34af5f6-ede6-04e6-98c6-0d435ab0f0fe"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json",
+    "**\\code2yaml.json",
+    "**\\repo.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/azure/azure-docs-sdk-java:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

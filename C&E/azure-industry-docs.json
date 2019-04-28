@@ -1,0 +1,172 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/Azure-Industry-docs",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/Azure-Industry-docs.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/Azure-Industry-docs.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/Azure-Industry-docs.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/Azure-Industry-docs.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/Azure-Industry-docs.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/Azure-Industry-docs.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/Azure-Industry-docs.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/Azure-Industry-docs.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/Azure-Industry-docs.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/Azure-Industry-docs.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/Azure-Industry-docs.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/Azure-Industry-docs.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/Azure-Industry-docs.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/Azure-Industry-docs.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/Azure-Industry-docs.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/Azure-Industry-docs.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/Azure-Industry-docs.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-industry-docs",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "6cb36652-5566-eb50-c28a-c97d700678f2",
+    "zh-CN": "c0f84ae9-5ad7-569c-aa71-647344c2b836",
+    "zh-TW": "d887bbf0-7202-3065-828f-801197f89c66",
+    "cs-CZ": "ddad5e91-b724-40ab-6f82-2ed038423120",
+    "nl-NL": "c1177907-3c6d-c241-29a5-e192ad871900",
+    "fr-FR": "fae8fd5c-8024-44bb-1918-f18bbe7a6bc6",
+    "de-DE": "629db337-075b-2cbc-b6c5-eea0adf079f0",
+    "hu-HU": "54e1eb82-c578-e593-e0db-ddca5805c748",
+    "it-IT": "28151210-3806-7be7-f077-d66172c41196",
+    "ja-JP": "5b3f0b4d-2b76-278f-767c-f75123ac3803",
+    "ko-KR": "93045072-266d-cff7-8918-2ee0c2acb237",
+    "pl-PL": "bb07e9eb-3d4c-3f2f-df13-f42e468487be",
+    "pt-PT": "ed878cf5-c2cc-89d3-911f-bd0b5744fce9",
+    "ru-RU": "30b12d48-5058-4521-0a91-98848fee33f0",
+    "es-ES": "a3c11a9c-a8f6-24b9-3c27-ef0ebafede29",
+    "sv-SE": "86f62f1c-5184-a4a0-afa0-efd4c35f9c43",
+    "tr-TR": "0083c25c-5e77-9633-0181-1cdbf0735b8b"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/Azure-Industry-docs:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

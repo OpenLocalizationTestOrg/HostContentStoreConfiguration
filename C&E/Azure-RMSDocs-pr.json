@@ -1,0 +1,152 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.pt-br",
+    "zh-CN": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.zh-cn",
+    "zh-TW": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.zh-tw",
+    "cs-CZ": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.cs-cz",
+    "nl-NL": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.nl-nl",
+    "fr-FR": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.fr-fr",
+    "de-DE": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.de-de",
+    "hu-HU": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.hu-hu",
+    "it-IT": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.it-it",
+    "ja-JP": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.ja-jp",
+    "ko-KR": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.ko-kr",
+    "pl-PL": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.pl-pl",
+    "pt-PT": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.pt-pt",
+    "ru-RU": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.ru-ru",
+    "es-ES": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.es-es",
+    "sv-SE": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.sv-se",
+    "tr-TR": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr.tr-tr"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "Azure-RMSDocs-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "a97d0944-b126-2daa-1e67-51ca27653f16",
+    "zh-CN": "1a2bc563-a490-f9e3-9b06-a4040900983c",
+    "zh-TW": "01d8faec-ef18-ed62-88fe-285113737398",
+    "cs-CZ": "a56c2941-9d41-005d-5934-ae2474c3ccba",
+    "nl-NL": "74148e33-683a-1c53-631d-1cd921e18c52",
+    "fr-FR": "cfc184a6-cc16-074e-283d-bd2baa878390",
+    "de-DE": "bd329c32-00aa-f82d-ab84-6505a2b26d88",
+    "hu-HU": "116d254d-77f9-dc72-fff2-e602d6b0816a",
+    "it-IT": "ccfcd1d3-553f-c633-1823-8c558df81b04",
+    "ja-JP": "7ee200e0-2403-768d-5078-1278e6f400e3",
+    "ko-KR": "7e8bc048-d942-5e80-513b-2bf5d197b0c1",
+    "pl-PL": "690519c4-9b97-728d-1b12-129fc692152a",
+    "pt-PT": "37f6e403-4474-d620-df3c-7633139bd4f9",
+    "ru-RU": "d72cc6b1-89b5-2fd7-edd7-a046988dd267",
+    "es-ES": "cbec4c44-f746-4a39-6a12-44adc1541e86",
+    "sv-SE": "097ffc13-ee82-e345-178b-ce22019d22be",
+    "tr-TR": "20571829-9853-6edd-e773-3e0e045b0e69"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority"
+    ]
+  },
+  "FilesToCopy": [
+    "**\\.openpublishing.redirection.json"
+  ],
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "preset": "cne"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/Azure-RMSDocs-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

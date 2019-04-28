@@ -1,0 +1,171 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-docs-sdk-go",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/azure-docs-sdk-go.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-docs-sdk-go",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "3d67ada8-eb3f-f485-906f-c9571c262305",
+    "zh-CN": "e1f884b8-91c5-6ee7-1def-49a56432d9c1",
+    "zh-TW": "03be46bf-112e-e8a1-9254-4d32c70b4a00",
+    "cs-CZ": "977421b0-1f0f-80df-d56f-d103d0bcacbe",
+    "nl-NL": "1f744ea8-5f34-8fdb-a6cc-53a68cae419d",
+    "fr-FR": "442d79f4-850e-7a43-68d8-057f014eb560",
+    "de-DE": "0159d5d4-5a71-90a1-2f2c-35be5abee8bf",
+    "hu-HU": "a406b31d-044f-832f-89a4-7ace4832deb0",
+    "it-IT": "7d0ec0b7-67cf-4ce8-c862-9245d553906b",
+    "ja-JP": "7abcf095-e8fc-d5f8-b8f7-9c0a3b1a7467",
+    "ko-KR": "649142e6-5dfb-d914-4283-1225d06c9235",
+    "pl-PL": "ad8ab455-48b8-0306-75ba-a19acf468b77",
+    "pt-PT": "073924a3-665d-254d-7d84-ff27232c7efe",
+    "ru-RU": "cc6298bc-4ee8-99f2-36e3-cc0388f369a0",
+    "es-ES": "d60067d4-1c6a-914b-ad98-27e6dc7ec022",
+    "sv-SE": "3bc098bb-868d-d4b1-5087-bb6753181703",
+    "tr-TR": "a4e1824f-126e-77ef-3ec9-2446726f19c3"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Title": [
+      "title"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": true,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": null,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-docs-sdk-go:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}

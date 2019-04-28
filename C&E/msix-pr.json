@@ -1,0 +1,142 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/msix-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/msix-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/msix-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/msix-pr.zh-TW",
+    "fr-FR": "https://github.com/MicrosoftDocs/msix-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/msix-pr.de-DE",
+    "it-IT": "https://github.com/MicrosoftDocs/msix-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/msix-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/msix-pr.ko-KR",
+    "ru-RU": "https://github.com/MicrosoftDocs/msix-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/msix-pr.es-ES"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "CEIC",
+      "MOR"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": false,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "msix-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "bbd768a7-f20e-aa3c-23ae-c770db0b34b2",
+    "zh-CN": "41d17b2a-954b-602e-8048-d53bce28bf44",
+    "zh-TW": "894da36d-683a-d8e6-9801-8f6acfd1f0f2",
+    "fr-FR": "80542066-9cf2-c6a1-cd17-3321ff87557f",
+    "de-DE": "5ba2d485-c268-265e-fb21-c25110651506",
+    "it-IT": "4c4c3e5e-2dec-c059-afaf-52bc10ebb97f",
+    "ja-JP": "3e9d8cd0-d2e2-a036-4f1e-c3901574fab7",
+    "ko-KR": "615779cc-467b-e3dd-9587-885ba0684dc4",
+    "ru-RU": "17341711-1a2a-e67d-37aa-0cebff95fbb7",
+    "es-ES": "9197bcaf-4cae-54a2-b294-7d577c376a5f"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/msix-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "ru-RU",
+    "es-ES"
+  ],
+  "NoLocales": false
+}

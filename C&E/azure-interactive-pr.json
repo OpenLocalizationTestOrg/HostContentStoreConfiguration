@@ -1,0 +1,171 @@
+{
+  "SourceRepoUri": "https://github.com/MicrosoftDocs/azure-interactive-pr",
+  "SourceRepoLocale": "en-US",
+  "Branch": "live",
+  "Locales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "Owner": "MicrosoftDocs",
+  "TargetRepoUris": {
+    "pt-BR": "https://github.com/MicrosoftDocs/azure-interactive-pr.pt-BR",
+    "zh-CN": "https://github.com/MicrosoftDocs/azure-interactive-pr.zh-CN",
+    "zh-TW": "https://github.com/MicrosoftDocs/azure-interactive-pr.zh-TW",
+    "cs-CZ": "https://github.com/MicrosoftDocs/azure-interactive-pr.cs-CZ",
+    "nl-NL": "https://github.com/MicrosoftDocs/azure-interactive-pr.nl-NL",
+    "fr-FR": "https://github.com/MicrosoftDocs/azure-interactive-pr.fr-FR",
+    "de-DE": "https://github.com/MicrosoftDocs/azure-interactive-pr.de-DE",
+    "hu-HU": "https://github.com/MicrosoftDocs/azure-interactive-pr.hu-HU",
+    "it-IT": "https://github.com/MicrosoftDocs/azure-interactive-pr.it-IT",
+    "ja-JP": "https://github.com/MicrosoftDocs/azure-interactive-pr.ja-JP",
+    "ko-KR": "https://github.com/MicrosoftDocs/azure-interactive-pr.ko-KR",
+    "pl-PL": "https://github.com/MicrosoftDocs/azure-interactive-pr.pl-PL",
+    "pt-PT": "https://github.com/MicrosoftDocs/azure-interactive-pr.pt-PT",
+    "ru-RU": "https://github.com/MicrosoftDocs/azure-interactive-pr.ru-RU",
+    "es-ES": "https://github.com/MicrosoftDocs/azure-interactive-pr.es-ES",
+    "sv-SE": "https://github.com/MicrosoftDocs/azure-interactive-pr.sv-SE",
+    "tr-TR": "https://github.com/MicrosoftDocs/azure-interactive-pr.tr-TR"
+  },
+  "RenamePatternKey": null,
+  "TargetRepoBranch": "live",
+  "TargetRepoBilingualBranch": "live-sxs",
+  "ProjectName": null,
+  "Permission": {
+    "Admin": [
+      "CEIC_Admin",
+      "OpenLocalization",
+      "OpenLocalization",
+      "OpenLocalization"
+    ],
+    "Write": [
+      "CEIC",
+      "MOR"
+    ],
+    "Read": [
+      "Everyone"
+    ]
+  },
+  "HandoffRepoUri": null,
+  "HandbackRepoUri": null,
+  "EmptyBranches": [
+    "master",
+    "master-sxs",
+    "live",
+    "live-sxs"
+  ],
+  "NoHandoffOnPublishError": false,
+  "InsertMetadataHeaderIfNotExists": true,
+  "IncrementalLocSyncing": false,
+  "AllBranches": [
+    "live",
+    "live-sxs",
+    "master",
+    "master-sxs"
+  ],
+  "Tenant": "C&E",
+  "HostContentStore": "azure-interactive-pr",
+  "PublishPlatform": "OPS",
+  "RepoIds": {
+    "pt-BR": "24d13539-6e5b-5038-954f-5d025501201f",
+    "zh-CN": "6bf23520-d2e9-292e-8bbc-be5214d310e2",
+    "zh-TW": "a1513152-aae0-f2b7-9a1f-626c803a7327",
+    "cs-CZ": "a83a2bf1-bc72-2c28-ec6f-3dd8ec8cd616",
+    "nl-NL": "2a4c4103-7f83-251d-32cb-6fa9622d7d6b",
+    "fr-FR": "49f2b555-03f4-dc62-5e58-d9bb69c202ba",
+    "de-DE": "07bae25f-f27f-7eb2-5d41-b40b7ef0c569",
+    "hu-HU": "c63ffacb-4959-bbd2-d965-efb45016ed1b",
+    "it-IT": "7e1765a7-6ca2-d490-3110-63af7e9a62f0",
+    "ja-JP": "f969e44e-03da-dfde-076c-d4379ce7dac8",
+    "ko-KR": "269efdeb-05aa-133b-5a5f-8dda467e32de",
+    "pl-PL": "41a2307f-cf52-be50-89bf-ac941f27b730",
+    "pt-PT": "0bb18c37-460f-f61a-f299-84929be24b29",
+    "ru-RU": "fcbbf34f-0219-bc25-1e9c-cf7dd599edde",
+    "es-ES": "ae4d9161-3b71-dc74-60ae-96439ff38577",
+    "sv-SE": "f0b197e1-5159-bc7e-2d34-e9cea0cacab0",
+    "tr-TR": "b16ff865-81a7-8705-7fe3-7ee12f41e073"
+  },
+  "TargetRepoPublishBranch": "live-sxs",
+  "PathFilter": [
+    "**/*"
+  ],
+  "TranslatorType": 1,
+  "IntervalSeconds": 10800,
+  "MetadataMappings": {
+    "Host File Tags": [
+      "ms.topic",
+      "ms.search.region",
+      "ms.search.industry",
+      "audience",
+      "ms.service"
+    ],
+    "Host File Priority": [
+      "localization_priority",
+      "localizationpriority",
+      "ms.localizationpriority"
+    ],
+    "Host File Title": [
+      "title"
+    ]
+  },
+  "FilesToCopy": null,
+  "AllFilesAsLead": false,
+  "Priority": 0,
+  "DisableLocRepoSyncing": false,
+  "BundleHandoff": false,
+  "TranslationOptions": {
+    "exposeImageTitleText": "True",
+    "exposeLinkTitleText": "True",
+    "exposePageTitle": "True",
+    "linkifyHeaders": "True",
+    "lockAtSign": "True",
+    "lockBackslashEscapeChars": "True",
+    "mergeAdjacentPhTags": "False",
+    "pairHtmlTags": "True",
+    "preset": "cne",
+    "replaceNewlineWithWhitespace": "True",
+    "trimBoundingPhTags": "False",
+    "useParagraphMarker": "False",
+    "YmlFormat": "yml-origin"
+  },
+  "MrefOptions": null,
+  "XliffVersion": "1.2",
+  "TrainXliff": false,
+  "SkipXliffTransform": false,
+  "FileExtensionsEnableXliffTransform": null,
+  "Id": "https://github.com/MicrosoftDocs/azure-interactive-pr:live",
+  "TranslationLocales": [
+    "pt-BR",
+    "zh-CN",
+    "zh-TW",
+    "cs-CZ",
+    "nl-NL",
+    "fr-FR",
+    "de-DE",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "pl-PL",
+    "pt-PT",
+    "ru-RU",
+    "es-ES",
+    "sv-SE",
+    "tr-TR"
+  ],
+  "NoLocales": false
+}
